@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Theme Monitor</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F3F5F8; --panel:#FFFFFF; --ink:#16202F; --muted:#677286; --line:#DDE2EA;
+  --up:#0B7A55; --down:#C0392B; --sel:#2C5BD4; --selbg:#E8EEFC;
+  --upbg:11,122,85; --downbg:192,57,43;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0F1520;--panel:#161E2B;--ink:#E6EBF2;--muted:#8D98AA;--line:#273244;
+    --up:#3FC99A;--down:#F06B5B;--sel:#7EA2FF;--selbg:#1E2A44;--upbg:63,201,154;--downbg:240,107,91;color-scheme:dark}
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:14px/1.45 Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;font-variant-numeric:tabular-nums;
+  padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+.wrap{max-width:1400px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 24px;margin-bottom:18px}
+h1{font-size:26px;font-weight:700;letter-spacing:-.02em;margin:0}
+.asof{color:var(--muted)}
+.bench{display:flex;gap:18px;flex-wrap:wrap;margin-left:auto}
+.bench span{color:var(--muted);margin-right:6px}
+h2{font-size:17px;font-weight:600;margin:28px 0 10px}
+.controls{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;margin-bottom:12px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--panel)}
+.seg button{all:unset;cursor:pointer;padding:6px 11px;color:var(--muted);font-weight:500}
+.seg button[aria-pressed=true]{background:var(--selbg);color:var(--sel)}
+.seg button:focus-visible,select:focus-visible,input:focus-visible,tr:focus-visible{outline:2px solid var(--sel);outline-offset:-2px}
+select,input{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 9px}
+.scroll{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;min-width:760px}
+th,td{padding:7px 10px;text-align:right;white-space:nowrap;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted);font-size:12.5px;cursor:pointer;user-select:none;position:sticky;top:0;background:var(--panel)}
+th.l,td.l{text-align:left}
+tbody tr:last-child td{border-bottom:0}
+#themes tbody tr{cursor:pointer}
+#themes tbody tr:hover{background:var(--selbg)}
+#themes tbody tr.on{background:var(--selbg);box-shadow:inset 3px 0 var(--sel)}
+.rank{color:var(--muted);width:28px}
+.tname{font-weight:600}
+.up{color:var(--up)} .down{color:var(--down)}
+.acc{font-size:12.5px}
+.bar{display:inline-block;width:46px;height:6px;border-radius:3px;background:var(--line);vertical-align:middle;margin-left:6px;position:relative;overflow:hidden}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--sel)}
+.ll{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.ll div{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.ll h3{font-size:13px;font-weight:600;color:var(--muted);margin:0 0 6px}
+.ll ol{margin:0;padding-left:20px}
+.ll li{padding:2px 0}
+.ll b{font-weight:600;margin-right:6px}
+.sub{color:var(--muted);font-size:12.5px}
+.tag{font-size:11.5px;color:var(--muted)}
+.foot{color:var(--muted);font-size:12.5px;margin-top:24px;max-width:75ch}
+.demo{background:#FFF4D6;color:#6B4E00;padding:8px 12px;border-radius:8px;margin-bottom:12px}
+@media (max-width:640px){.ll{grid-template-columns:1fr}.bench{margin-left:0}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Theme Monitor</h1>
+    <div class="asof" id="asof"></div>
+    <div class="bench" id="bench"></div>
+  </header>
+  <div id="demo"></div>
+
+  <div class="controls">
+    <div class="seg" id="win" role="group" aria-label="Rank themes by"></div>
+    <div class="seg" id="exp" role="group" aria-label="Exposure filter"></div>
+  </div>
+
+  <div class="scroll"><table id="themes"><thead></thead><tbody></tbody></table></div>
+
+  <h2 id="lltitle"></h2>
+  <div class="ll"><div><h3>Leaders vs theme</h3><ol id="lead"></ol></div><div><h3>Laggards vs theme</h3><ol id="lag"></ol></div></div>
+
+  <h2>Stocks</h2>
+  <div class="controls">
+    <select id="tsel" aria-label="Theme"></select>
+    <input id="q" type="search" placeholder="Search ticker or company" aria-label="Search">
+  </div>
+  <div class="scroll"><table id="stocks"><thead></thead><tbody></tbody></table></div>
+
+  <p class="foot" id="foot"></p>
+</div>
+
+<script>
+const D = /*__DATA__*/null;
+const W = D.weights;
+const WIN = [["score","Score"],["r1d","1D"],["r1w","1W"],["r1m","1M"],["r3m","3M"],["ytd","YTD"]];
+const CAP = {r1d:3,r1w:6,r1m:12,r3m:25,ytd:40,score:12,rs:10,ex:10};
+const EXP = [["pure","Pure-play"],["core","Pure + major"],["all","All"]];
+let st = {win:"score", exp:"pure", theme:null, sort:"rs", dir:-1, q:""};
+
+const $ = s => document.querySelector(s);
+const mean = a => { a = a.filter(v => v != null); return a.length ? a.reduce((x,y)=>x+y,0)/a.length : null; };
+const median = a => { a = a.filter(v => v != null).sort((x,y)=>x-y); if(!a.length) return null; const m=a.length>>1; return a.length%2?a[m]:(a[m-1]+a[m])/2; };
+const blend = s => { let t=0,w=0; for(const k in W){ if(s[k]!=null){t+=s[k]*W[k]; w+=W[k];} } return w?t/w:null; };
+const fmt = (v,d=1,sign=true) => v==null?"–":(sign&&v>0?"+":"")+v.toFixed(d)+"%";
+function heat(v,k){
+  if(v==null) return "";
+  const a = Math.min(Math.abs(v)/(CAP[k]||10),1)*0.38;
+  return `background:rgba(var(${v>=0?"--upbg":"--downbg"}),${a.toFixed(3)})`;
+}
+function spark(arr,w=84,h=22){
+  if(!arr||arr.length<2) return "";
+  const lo=Math.min(...arr), hi=Math.max(...arr), r=hi-lo||1;
+  const pts=arr.map((v,i)=>`${(i/(arr.length-1)*w).toFixed(1)},${(h-2-(v-lo)/r*(h-4)).toFixed(1)}`).join(" ");
+  const c = arr[arr.length-1]>=arr[0]?"var(--up)":"var(--down)";
+  return `<svg width="${w}" height="${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="${c}" stroke-width="1.5"/></svg>`;
+}
+const keep = s => st.exp==="all" || s.exposure==="Pure-play" || (st.exp==="core" && s.exposure==="Major segment");
+
+function compute(){
+  const spyB = D.bench.SPY ? blend(D.bench.SPY) : 0;
+  const by = {};
+  D.stocks.filter(keep).forEach(s => (by[s.theme] ||= []).push(s));
+  const themes = Object.entries(by).map(([name,ss])=>{
+    const t = {name, n:ss.length};
+    ["r1d","r1w","r1m","r3m","ytd"].forEach(k=>t[k]=mean(ss.map(s=>s[k])));
+    t.score = blend(t); t.ex = t.score==null?null:t.score-spyB;
+    const med = median(ss.map(blend));
+    ss.forEach(s=>{ const b=blend(s); s.rs = (b==null||med==null)?null:b-med; });
+    const b50=ss.filter(s=>s.a50!=null), b200=ss.filter(s=>s.a200!=null);
+    t.b50 = b50.length? b50.filter(s=>s.a50).length/b50.length : null;
+    t.b200 = b200.length? b200.filter(s=>s.a200).length/b200.length : null;
+    t.acc = (t.r1w!=null&&t.r1m!=null)? t.r1w - t.r1m*5/21 : null;
+    const L = Math.min(...ss.map(s=>s.spark.length));
+    t.spark = Array.from({length:L},(_,i)=>mean(ss.map(s=>s.spark[s.spark.length-L+i])));
+    t.stocks = ss;
+    return t;
+  });
+  themes.sort((a,b)=>(b[st.win]??-1e9)-(a[st.win]??-1e9));
+  return themes;
+}
+
+function segs(el,opts,key){
+  el.innerHTML = opts.map(([k,l])=>`<button aria-pressed="${st[key]===k}" data-k="${k}">${l}</button>`).join("");
+  el.onclick = e=>{ const k=e.target.dataset.k; if(k){ st[key]=k; render(); } };
+}
+const breadth = v => v==null?"–":`${Math.round(v*100)}%<span class="bar"><i style="width:${v*100}%"></i></span>`;
+const accel = v => v==null?"":v>1?`<span class="acc up">▲ accelerating</span>`:v<-1?`<span class="acc down">▼ fading</span>`:`<span class="acc sub">steady</span>`;
+
+function render(){
+  segs($("#win"),WIN,"win"); segs($("#exp"),EXP,"exp");
+  const T = compute();
+  if(st.theme && !T.find(t=>t.name===st.theme)) st.theme=null;
+
+  $("#themes thead").innerHTML = `<tr><th class="l">#</th><th class="l">Theme</th><th class="l">3M trend</th><th title="Blend of 1W/1M/3M">Score</th>${WIN.slice(1).map(([k,l])=>`<th>${l}</th>`).join("")}<th title="Score minus SPY score">vs SPY</th><th>Above 50D</th><th>Above 200D</th><th class="l">Momentum</th><th>N</th></tr>`;
+  $("#themes tbody").innerHTML = T.map((t,i)=>`<tr tabindex="0" data-t="${t.name}" class="${t.name===st.theme?"on":""}">
+    <td class="l rank">${i+1}</td><td class="l tname">${t.name}</td><td class="l">${spark(t.spark)}</td><td style="${heat(t.score,"score")}"><b>${fmt(t.score)}</b></td>
+    ${WIN.slice(1).map(([k])=>`<td style="${heat(t[k],k)}">${fmt(t[k])}</td>`).join("")}
+    <td class="${t.ex>=0?"up":"down"}">${fmt(t.ex)}</td><td>${breadth(t.b50)}</td><td>${breadth(t.b200)}</td>
+    <td class="l">${accel(t.acc)}</td><td>${t.n}</td></tr>`).join("");
+  $("#themes tbody").onclick = e=>{ const r=e.target.closest("tr"); if(r){ st.theme = st.theme===r.dataset.t?null:r.dataset.t; render(); } };
+  $("#themes tbody").onkeydown = e=>{ if(e.key==="Enter"){ e.target.click(); } };
+
+  // leaders / laggards
+  const pool = st.theme ? T.find(t=>t.name===st.theme).stocks : T.flatMap(t=>t.stocks);
+  $("#lltitle").textContent = st.theme ? st.theme : "All themes";
+  const ranked = pool.filter(s=>s.rs!=null).sort((a,b)=>b.rs-a.rs);
+  const li = s=>`<li><b>${s.ticker}</b>${s.company} <span class="${s.rs>=0?"up":"down"}">${fmt(s.rs)}</span>${st.theme?"":` <span class="tag">${s.theme}</span>`}</li>`;
+  const n = st.theme?3:5;
+  $("#lead").innerHTML = ranked.slice(0,n).map(li).join("");
+  $("#lag").innerHTML = ranked.slice(-n).reverse().map(li).join("");
+
+  // stock table
+  const names = T.map(t=>t.name).sort();
+  $("#tsel").innerHTML = `<option value="">All themes</option>`+names.map(n=>`<option ${n===st.theme?"selected":""}>${n}</option>`).join("");
+  $("#tsel").onchange = e=>{ st.theme = e.target.value||null; render(); };
+  const cols = [["ticker","Ticker","l"],["company","Company","l"],["subtheme","Sub-theme","l"],["spark","3M",""],["close","Last",""],["r1d","1D",""],["r1w","1W",""],["r1m","1M",""],["r3m","3M",""],["ytd","YTD",""],["rs","RS vs theme",""],["off_hi","From 52W high",""],["relvol","Rel vol",""],["a50","50D",""]];
+  $("#stocks thead").innerHTML = "<tr>"+cols.map(([k,l,c])=>`<th class="${c}" data-k="${k}" aria-sort="${st.sort===k?(st.dir<0?"descending":"ascending"):"none"}">${l}${st.sort===k?(st.dir<0?" ↓":" ↑"):""}</th>`).join("")+"</tr>";
+  $("#stocks thead").onclick = e=>{ const k=e.target.dataset.k; if(!k||k==="spark") return; st.dir = st.sort===k?-st.dir:-1; st.sort=k; render(); };
+  const q = st.q.toLowerCase();
+  let rows = pool.filter(s=>!q || s.ticker.toLowerCase().includes(q) || s.company.toLowerCase().includes(q));
+  rows = [...rows].sort((a,b)=>{ const x=a[st.sort], y=b[st.sort]; if(x==null) return 1; if(y==null) return -1; return (x>y?1:x<y?-1:0)*st.dir; });
+  $("#stocks tbody").innerHTML = rows.map(s=>`<tr>
+    <td class="l"><b>${s.ticker}</b></td><td class="l">${s.company}${st.theme?"":`<div class="tag">${s.theme}</div>`}</td><td class="l sub">${s.subtheme}</td>
+    <td>${spark(s.spark,64,18)}</td><td>${s.close.toFixed(2)}</td>
+    ${["r1d","r1w","r1m","r3m","ytd"].map(k=>`<td style="${heat(s[k],k)}">${fmt(s[k])}</td>`).join("")}
+    <td class="${s.rs>=0?"up":"down"}"><b>${fmt(s.rs)}</b></td><td>${fmt(s.off_hi)}</td>
+    <td class="${s.relvol>=1.5?"up":""}">${s.relvol==null?"–":s.relvol.toFixed(1)+"×"}</td>
+    <td>${s.a50==null?"–":s.a50?'<span class="up">●</span>':'<span class="down">○</span>'}</td></tr>`).join("");
+}
+
+$("#asof").textContent = `Close of ${new Date(D.as_of+"T12:00:00").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric",year:"numeric"})}`;
+$("#bench").innerHTML = Object.entries(D.bench).map(([k,b])=>`<div><span>${k}</span>1D <b class="${b.r1d>=0?"up":"down"}">${fmt(b.r1d)}</b>&ensp; 1M <b class="${b.r1m>=0?"up":"down"}">${fmt(b.r1m)}</b>&ensp; YTD <b class="${b.ytd>=0?"up":"down"}">${fmt(b.ytd)}</b></div>`).join("");
+if(D.demo) $("#demo").innerHTML = `<div class="demo">Demo data. Run the nightly job for real prices.</div>`;
+$("#q").oninput = e=>{ st.q=e.target.value; render(); };
+$("#foot").textContent = `Themes are equal-weighted. Score blends 1W (${W.r1w*100}%), 1M (${W.r1m*100}%) and 3M (${W.r3m*100}%) returns. RS vs theme is a stock's score minus its theme's median score. Momentum compares the 1W return with the 1M pace. Updated ${D.generated}.`+(D.missing.length?` No data for: ${D.missing.join(", ")}.`:"");
+render();
+</script>
+</body>
+</html>
