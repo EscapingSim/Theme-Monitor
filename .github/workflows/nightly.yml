@@ -1,10 +1,13 @@
 name: Nightly theme update
 on:
   schedule:
-    - cron: "30 23 * * 1-5"   # 23:30 UTC = 5:30 PM Mountain (daylight time), weekdays
-  workflow_dispatch: {}        # lets you run it manually from the Actions tab
+    - cron: "30 23 * * 1-5"   # 5:30 PM Mountain (daylight time), weekdays
+  workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: nightly
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,6 +23,9 @@ jobs:
         run: |
           git config user.name "theme-monitor-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs data/history data/universe_cache.csv 2>/dev/null || git add docs data/history
-          git diff --cached --quiet || git commit -m "Nightly update $(date -u +%F)"
+          git add docs data/history
+          [ -f data/universe_cache.csv ] && git add data/universe_cache.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "Nightly update $(date -u +%F)"
+          git pull --rebase origin main
           git push
