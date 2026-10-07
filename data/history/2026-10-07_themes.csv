@@ -1,464 +1,635 @@
 theme,ticker,close,r1d,r1w,r1m,r3m,ytd
-Genomics,ABSI,9.28,-9.59,-13.79,4.21,-19.05,166.05
-Genomics,RXRX,4.41,-4.75,6.78,28.2,17.29,7.82
-Genomics,CDNA,63.95,0.25,-1.62,27.11,119.68,239.44
-Genomics,GH,168.98,-1.0,-5.26,4.97,2.98,65.43
-Genomics,MYGN,4.26,-0.58,-1.28,33.81,-30.25,-30.81
-Genomics,NTRA,399.65,-0.25,-3.31,23.3,41.8,74.45
-Genomics,VCYT,43.46,-2.67,-5.6,2.38,-26.71,3.23
-Genomics,WGS,69.5,-2.82,-3.87,-19.06,0.16,-46.56
-Genomics,BEAM,24.93,-1.19,1.96,-7.08,-30.4,-10.06
-Genomics,CRBU,0.61,-46.42,-52.12,-60.51,-68.65,-61.75
-Genomics,CRSP,53.32,-1.26,-3.62,-2.67,-5.36,1.68
-Genomics,NTLA,12.12,-1.98,0.54,-4.83,-21.47,34.87
+Genomics,ABSI,9.22,-10.22,-14.39,3.48,-19.62,164.18
+Genomics,RXRX,4.27,-7.78,3.39,24.13,13.56,4.4
+Genomics,CDNA,63.04,-1.18,-3.02,25.3,116.56,234.61
+Genomics,GH,168.33,-1.38,-5.62,4.57,2.59,64.8
+Genomics,MYGN,4.28,0.0,-0.7,34.59,-29.84,-30.41
+Genomics,NTRA,395.56,-1.27,-4.29,22.03,40.34,72.67
+Genomics,VCYT,43.16,-3.34,-6.26,1.67,-27.22,2.52
+Genomics,WGS,68.53,-4.18,-5.21,-20.19,-1.24,-47.31
+Genomics,BEAM,24.77,-1.82,1.31,-7.68,-30.85,-10.64
+Genomics,CRBU,0.62,-45.6,-51.39,-59.91,-68.18,-61.17
+Genomics,CRSP,52.35,-3.06,-5.37,-4.44,-7.08,-0.17
+Genomics,NTLA,11.71,-5.34,-2.9,-8.08,-24.16,30.26
 Genomics,PRME,3.9,11.43,27.66,9.55,-7.8,12.39
-Genomics,RGNX,7.61,2.15,1.06,-13.13,-51.37,-47.15
-Genomics,SRPT,17.56,1.44,-3.62,-16.14,-14.42,-18.4
-Genomics,TEM,71.61,-0.51,-12.56,11.39,16.44,21.27
-Genomics,ALNY,226.58,1.18,-8.17,-12.89,-27.56,-43.02
-Genomics,ARWR,61.71,0.28,-5.71,-27.49,-26.54,-7.05
-Genomics,IONS,44.03,0.06,-1.4,-22.37,-31.5,-44.35
-Genomics,MRNA,196.33,4.73,1.95,39.91,156.44,565.75
-Genomics,WVE,3.5,-0.57,-5.41,-28.72,-44.53,-79.41
-Genomics,ILMN,270.6,-1.07,-1.13,28.21,39.66,106.31
-Genomics,PACB,2.66,-1.48,12.24,101.52,65.22,42.25
-Genomics,TXG,77.98,-3.32,-13.7,18.87,80.93,378.11
-Genomics,DNA,11.72,-5.56,-8.65,68.88,20.45,41.03
-Genomics,VRTX,506.85,0.9,-3.05,-4.17,2.08,11.8
-Genomics,QGEN,45.09,-1.23,3.04,6.39,7.38,1.17
-Genomics,TECH,72.54,0.14,0.09,0.31,2.06,23.87
-Genomics,TMO,661.81,0.8,-1.96,9.83,26.23,14.53
-Genomics,TWST,157.49,-5.68,-18.5,22.98,68.13,396.48
-Cyber Security,AKAM,105.08,-3.26,-1.19,-0.5,-18.87,20.44
-Cyber Security,FFIV,469.15,-0.14,5.38,20.41,9.02,83.79
-Cyber Security,RDWR,30.07,-1.86,0.87,7.43,-6.41,24.82
-Cyber Security,NET,344.38,-3.0,-0.84,21.13,24.86,74.68
-Cyber Security,NTSK,19.33,-1.6,10.81,34.67,55.6,10.18
-Cyber Security,ZS,213.05,0.38,6.83,31.56,44.81,-5.28
-Cyber Security,GEN,22.48,-1.41,2.08,-24.59,-13.13,-16.07
-Cyber Security,CVLT,148.8,-3.99,-0.75,11.58,-1.74,18.7
-Cyber Security,RBRK,124.39,-1.12,8.67,35.75,40.16,62.64
-Cyber Security,VRNS,48.89,-0.39,3.03,7.55,6.72,49.05
-Cyber Security,CLBT,11.33,-0.35,0.62,-1.05,-29.76,-37.16
-Cyber Security,BB,9.21,-3.82,1.93,17.08,-19.38,143.12
-Cyber Security,CRWD,265.2,-4.9,0.17,26.27,33.67,126.29
-Cyber Security,S,25.42,-1.45,7.01,30.85,34.81,69.5
-Cyber Security,OKTA,217.51,-0.53,4.02,29.78,46.14,151.54
-Cyber Security,OSPN,17.67,-3.86,-1.34,9.75,17.07,41.92
-Cyber Security,SAIL,19.62,-1.43,-3.61,10.31,32.15,-2.99
-Cyber Security,CHKP,131.77,-0.16,2.66,-0.85,-4.63,-28.99
-Cyber Security,FTNT,190.39,-0.46,6.51,20.91,16.28,139.76
-Cyber Security,PANW,406.35,-3.23,2.27,20.58,20.11,120.6
-Cyber Security,QLYS,191.72,-4.11,2.41,12.56,20.28,44.26
-Cyber Security,RPD,12.37,0.81,1.23,18.26,8.41,-18.62
-Cyber Security,TENB,38.88,-1.49,6.84,15.37,-6.02,65.24
-Blockchain / Decentralized Finance,MSTR,154.3,-6.23,0.79,13.03,64.35,1.55
-Blockchain / Decentralized Finance,ETOR,25.45,-3.58,-0.95,-17.59,-36.04,-27.54
-Blockchain / Decentralized Finance,GLXY,21.38,-3.5,-6.0,-20.98,-14.84,-4.41
-Blockchain / Decentralized Finance,HOOD,109.95,-1.83,-2.27,-6.3,-4.48,-2.79
-Blockchain / Decentralized Finance,BMNR,24.64,-5.95,-6.76,-0.52,67.75,-9.24
-Blockchain / Decentralized Finance,SBET,8.98,-5.42,-3.18,1.87,68.89,0.5
-Blockchain / Decentralized Finance,BKKT,7.2,-2.04,-7.81,-12.83,-13.98,-28.29
-Blockchain / Decentralized Finance,BLSH,32.08,-3.89,-8.05,-9.71,29.35,-15.29
-Blockchain / Decentralized Finance,COIN,179.24,-3.5,-3.85,0.17,13.13,-20.74
-Blockchain / Decentralized Finance,GEMI,4.4,-5.78,-14.73,-5.98,3.53,-55.65
-Blockchain / Decentralized Finance,BTDR,10.3,-5.64,-1.86,-18.75,-28.16,-8.16
-Blockchain / Decentralized Finance,CIFR,14.64,-5.58,-7.52,-20.93,-37.08,-0.85
-Blockchain / Decentralized Finance,CLSK,11.53,-6.14,-10.44,-14.43,-10.51,13.98
-Blockchain / Decentralized Finance,CORZ,15.85,-4.95,-0.78,-15.35,-33.21,8.89
-Blockchain / Decentralized Finance,HUT,89.13,-3.35,3.52,-10.41,-16.09,94.01
-Blockchain / Decentralized Finance,IREN,38.77,-6.08,-5.16,-17.39,-7.07,2.65
-Blockchain / Decentralized Finance,MARA,10.29,-6.2,-9.18,-13.02,-22.16,14.59
-Blockchain / Decentralized Finance,RIOT,18.4,-2.8,-8.68,-17.34,-14.46,45.22
-Blockchain / Decentralized Finance,WULF,14.39,-3.91,-2.8,-19.46,-38.0,25.2
-Blockchain / Decentralized Finance,CRCL,81.25,-3.42,-1.12,-15.52,28.95,2.46
-Blockchain / Decentralized Finance,FIGR,27.99,2.34,-2.98,-26.85,-14.64,-31.46
-Blockchain / Decentralized Finance,EXOD,6.61,-3.58,-7.75,-10.85,30.72,-55.28
-Fintech / Digital Payments,BILL,44.54,1.32,4.7,-6.43,9.92,-18.34
-Fintech / Digital Payments,CPAY,402.84,-0.97,3.66,-1.03,14.72,33.87
-Fintech / Digital Payments,AFRM,75.39,0.68,8.9,4.59,-10.01,1.29
-Fintech / Digital Payments,KLAR,13.26,0.08,7.02,-7.01,-33.67,-54.13
-Fintech / Digital Payments,MQ,17.26,4.32,1.59,6.18,11.32,-9.13
-Fintech / Digital Payments,FLYW,18.28,0.35,4.45,1.71,1.43,29.08
+Genomics,RGNX,7.59,1.95,0.86,-13.3,-51.47,-47.26
+Genomics,SRPT,17.5,1.1,-3.95,-16.43,-14.72,-18.68
+Genomics,TEM,70.35,-2.26,-14.1,9.43,14.39,19.14
+Genomics,ALNY,224.41,0.21,-9.05,-13.72,-28.26,-43.57
+Genomics,ARWR,61.48,-0.1,-6.07,-27.76,-26.81,-7.4
+Genomics,IONS,44.16,0.36,-1.1,-22.13,-31.29,-44.18
+Genomics,MRNA,196.48,4.81,2.03,40.01,156.64,566.26
+Genomics,WVE,3.54,0.57,-4.32,-27.9,-43.9,-79.18
+Genomics,ILMN,267.76,-2.11,-2.16,26.86,38.19,104.15
+Genomics,PACB,2.72,0.74,14.77,106.06,68.94,45.45
+Genomics,TXG,76.1,-5.65,-15.78,16.01,76.57,366.58
+Genomics,DNA,11.46,-7.65,-10.68,65.13,17.78,37.91
+Genomics,VRTX,505.64,0.66,-3.28,-4.4,1.84,11.53
+Genomics,QGEN,44.8,-1.86,2.38,5.71,6.69,-0.38
+Genomics,TECH,72.53,0.14,0.08,0.3,1.94,23.33
+Genomics,TMO,661.78,0.79,-1.97,9.74,26.12,14.21
+Genomics,TWST,155.65,-6.78,-19.45,21.54,66.17,390.7
+Cyber Security,AKAM,104.61,-3.69,-1.64,-0.95,-19.23,19.9
+Cyber Security,FFIV,466.65,-0.67,4.82,19.77,8.44,82.81
+Cyber Security,RDWR,30.12,-1.7,1.04,7.61,-6.26,25.03
+Cyber Security,NET,342.82,-3.43,-1.28,20.58,24.3,73.89
+Cyber Security,NTSK,19.24,-2.04,10.32,34.08,54.91,9.69
+Cyber Security,ZS,213.55,0.61,7.09,31.87,45.15,-5.06
+Cyber Security,GEN,22.39,-1.8,1.68,-24.89,-13.85,-17.65
+Cyber Security,CVLT,150.28,-3.03,0.24,12.69,-0.76,19.88
+Cyber Security,RBRK,123.75,-1.63,8.11,35.05,39.44,61.81
+Cyber Security,VRNS,48.96,-0.24,3.18,7.7,6.88,49.27
+Cyber Security,CLBT,11.23,-1.28,-0.31,-1.97,-30.41,-37.74
+Cyber Security,BB,8.77,-8.49,-3.02,11.4,-23.3,131.32
+Cyber Security,CRWD,265.44,-4.81,0.26,26.39,33.79,126.5
+Cyber Security,S,25.33,-1.84,6.59,30.34,34.28,68.83
+Cyber Security,OKTA,218.0,-0.31,4.25,30.08,46.47,152.11
+Cyber Security,OSPN,17.7,-3.7,-1.17,9.94,16.37,37.85
+Cyber Security,SAIL,19.58,-1.66,-3.83,10.06,31.85,-3.21
+Cyber Security,CHKP,130.31,-1.27,1.53,-1.95,-5.68,-29.77
+Cyber Security,FTNT,189.28,-1.04,5.88,20.2,15.6,138.36
+Cyber Security,PANW,405.57,-3.42,2.08,20.35,19.88,120.18
+Cyber Security,QLYS,194.75,-2.59,4.03,14.34,22.18,46.54
+Cyber Security,RPD,12.49,1.79,2.21,19.41,9.47,-17.83
+Cyber Security,TENB,38.94,-1.34,7.01,15.55,-5.87,65.49
+Blockchain / Decentralized Finance,MSTR,153.37,-6.79,0.18,12.34,63.35,0.93
+Blockchain / Decentralized Finance,ETOR,25.3,-4.17,-1.56,-18.1,-36.43,-27.98
+Blockchain / Decentralized Finance,GLXY,21.4,-3.39,-5.89,-20.89,-14.74,-4.29
+Blockchain / Decentralized Finance,HOOD,109.51,-2.22,-2.66,-6.67,-4.86,-3.17
+Blockchain / Decentralized Finance,BMNR,24.67,-5.84,-6.66,-0.4,67.94,-9.13
+Blockchain / Decentralized Finance,SBET,8.95,-5.79,-3.56,1.47,68.23,0.11
+Blockchain / Decentralized Finance,BKKT,7.27,-1.09,-6.91,-11.99,-13.14,-27.59
+Blockchain / Decentralized Finance,BLSH,31.85,-4.58,-8.71,-10.36,28.43,-15.9
+Blockchain / Decentralized Finance,COIN,178.45,-3.92,-4.27,-0.27,12.63,-21.09
+Blockchain / Decentralized Finance,GEMI,4.49,-3.85,-12.98,-4.06,5.65,-54.74
+Blockchain / Decentralized Finance,BTDR,10.4,-4.67,-0.86,-17.92,-27.42,-7.23
+Blockchain / Decentralized Finance,CIFR,14.56,-6.06,-7.99,-21.34,-37.4,-1.36
+Blockchain / Decentralized Finance,CLSK,11.52,-6.27,-10.56,-14.54,-10.63,13.83
+Blockchain / Decentralized Finance,CORZ,15.94,-4.44,-0.25,-14.9,-32.86,9.48
+Blockchain / Decentralized Finance,HUT,89.3,-3.17,3.72,-10.24,-15.93,94.38
+Blockchain / Decentralized Finance,IREN,38.69,-6.27,-5.36,-17.56,-7.26,2.44
+Blockchain / Decentralized Finance,MARA,10.36,-5.56,-8.56,-12.43,-21.63,15.37
+Blockchain / Decentralized Finance,RIOT,18.54,-2.06,-7.99,-16.71,-13.81,46.33
+Blockchain / Decentralized Finance,WULF,14.4,-3.81,-2.7,-19.37,-37.93,25.33
+Blockchain / Decentralized Finance,CRCL,80.85,-3.9,-1.61,-15.94,28.31,1.95
+Blockchain / Decentralized Finance,FIGR,27.68,1.21,-4.06,-27.66,-15.58,-32.22
+Blockchain / Decentralized Finance,EXOD,6.53,-4.81,-8.93,-11.99,29.05,-55.85
+Fintech / Digital Payments,BILL,44.0,0.09,3.43,-7.56,8.59,-19.33
+Fintech / Digital Payments,CPAY,402.21,-1.13,3.5,-1.19,14.54,33.66
+Fintech / Digital Payments,AFRM,75.31,0.57,8.78,4.48,-10.11,1.18
+Fintech / Digital Payments,KLAR,13.25,0.0,6.94,-7.08,-33.72,-54.17
+Fintech / Digital Payments,MQ,17.06,3.08,0.38,4.92,9.99,-10.21
+Fintech / Digital Payments,FLYW,18.15,-0.36,3.71,1.0,0.72,28.18
 Fintech / Digital Payments,PAYO,7.16,0.14,0.28,0.42,0.99,27.4
-Fintech / Digital Payments,RELY,23.07,-0.57,8.1,-7.09,-2.08,67.17
-Fintech / Digital Payments,HOOD,109.95,-1.83,-2.27,-6.3,-4.48,-2.79
-Fintech / Digital Payments,FIGR,27.99,2.34,-2.98,-26.85,-14.64,-31.46
-Fintech / Digital Payments,PGY,18.3,1.39,5.66,-17.12,2.58,-12.44
-Fintech / Digital Payments,UPST,23.91,0.21,4.0,-11.38,-28.05,-45.32
-Fintech / Digital Payments,FOUR,39.26,1.97,8.54,-7.16,-20.35,-37.65
-Fintech / Digital Payments,GPN,81.93,0.17,0.32,-8.12,10.46,6.91
-Fintech / Digital Payments,PYPL,55.22,1.11,5.11,3.83,22.13,-4.59
-Fintech / Digital Payments,STNE,11.66,0.39,24.89,16.42,6.43,-4.53
-Fintech / Digital Payments,TOST,31.02,2.56,7.02,-6.8,7.54,-12.63
-Fintech / Digital Payments,XYZ,76.26,-0.37,3.71,-4.79,-1.5,17.16
-Fintech / Digital Payments,CHYM,27.85,0.74,4.56,-13.79,30.71,10.67
-Fintech / Digital Payments,DAVE,347.1,1.15,7.96,-7.78,-11.03,56.77
-Fintech / Digital Payments,NU,15.68,0.1,23.82,2.25,14.67,-6.36
-Fintech / Digital Payments,SOFI,15.66,-0.6,-0.35,-13.02,-15.87,-40.16
-Fintech / Digital Payments,MA,573.35,1.19,3.97,0.43,9.59,0.93
-Fintech / Digital Payments,V,373.99,0.9,4.08,1.45,7.61,7.28
-Cloud Computing,NET,344.38,-3.0,-0.84,21.13,24.86,74.68
-Cloud Computing,TWLO,275.17,-1.87,-5.91,21.81,25.88,93.45
-Cloud Computing,MDB,362.78,0.57,4.06,1.9,-0.02,-13.56
-Cloud Computing,SNOW,334.72,-0.37,-1.43,-0.23,25.13,52.59
-Cloud Computing,FROG,98.36,-0.15,1.37,13.42,3.0,57.48
-Cloud Computing,GTLB,52.32,1.34,10.73,10.97,54.52,39.41
-Cloud Computing,TEAM,196.65,1.37,9.68,11.46,116.78,21.28
-Cloud Computing,FSLY,25.32,-0.74,-1.36,17.82,24.55,148.72
-Cloud Computing,AMZN,259.66,1.31,4.22,1.05,5.11,12.49
-Cloud Computing,DOCN,129.04,-1.5,-3.26,1.85,-8.38,168.16
-Cloud Computing,GOOGL,348.93,0.36,1.41,3.12,-2.71,11.7
-Cloud Computing,MSFT,530.82,0.29,3.49,7.46,38.36,10.46
-Cloud Computing,ORCL,144.22,-0.38,5.04,-11.26,0.35,-25.29
-Cloud Computing,CRWV,87.85,-4.22,0.84,-12.0,-2.06,22.68
-Cloud Computing,NBIS,235.32,-5.83,-0.24,-3.51,8.84,181.12
-Cloud Computing,DDOG,272.59,-2.03,-0.46,29.66,1.33,100.45
-Cloud Computing,DT,59.9,-1.88,3.75,19.12,32.45,38.22
-Cloud Computing,ESTC,94.26,-0.36,2.79,6.6,51.89,24.95
-Cloud Computing,CRM,226.31,0.59,-1.42,-9.0,39.51,-13.99
-Cloud Computing,HUBS,222.09,2.3,8.34,-7.63,7.83,-44.66
-Cloud Computing,NOW,139.27,0.94,3.93,3.77,27.96,-9.09
-Cloud Computing,PCOR,55.01,1.14,6.36,-2.08,24.97,-24.37
-Cloud Computing,VEEV,284.72,0.43,-0.26,7.51,50.09,27.55
-Cloud Computing,WDAY,186.4,-0.08,-2.13,0.06,34.74,-13.22
-Robotics & Automation,AUR,5.71,-0.72,3.05,-12.31,-9.1,48.66
-Robotics & Automation,MBLY,7.26,-2.88,-1.83,-14.85,-23.87,-30.51
-Robotics & Automation,SERV,4.63,-2.94,-0.43,-5.51,-23.34,-55.39
-Robotics & Automation,TSLA,377.35,-0.88,6.35,2.49,-7.18,-16.09
-Robotics & Automation,EMR,159.7,-1.05,2.97,4.96,16.29,21.69
-Robotics & Automation,ROK,441.31,-2.09,1.37,2.84,-5.31,14.52
-Robotics & Automation,TER,408.36,-5.1,1.86,9.76,12.62,111.22
-Robotics & Automation,CGNX,61.53,-7.26,1.45,-1.12,-6.3,71.74
-Robotics & Automation,NOVT,142.88,-4.17,0.49,-4.31,-5.79,20.08
-Robotics & Automation,RRX,161.4,-2.98,4.06,-1.2,-22.25,15.69
-Robotics & Automation,AMBA,65.14,-4.12,-6.29,2.61,-16.89,-8.05
-Robotics & Automation,OUST,41.64,-7.28,3.22,11.07,-12.39,92.42
-Robotics & Automation,PATH,13.14,0.27,2.3,-6.25,11.31,-19.86
-Robotics & Automation,ISRG,414.27,2.35,1.88,18.31,0.66,-26.85
-Robotics & Automation,PRCT,18.14,3.6,-0.44,-15.04,-8.15,-42.34
-Robotics & Automation,SYM,43.92,-0.53,4.39,1.42,1.77,-26.19
-Robotics & Automation,ZBRA,386.83,0.27,3.62,9.73,41.88,59.31
+Fintech / Digital Payments,RELY,22.93,-1.16,7.45,-7.65,-2.67,66.16
+Fintech / Digital Payments,HOOD,109.51,-2.22,-2.66,-6.67,-4.86,-3.17
+Fintech / Digital Payments,FIGR,27.68,1.21,-4.06,-27.66,-15.58,-32.22
+Fintech / Digital Payments,PGY,18.14,0.5,4.73,-17.84,1.68,-13.21
+Fintech / Digital Payments,UPST,24.02,0.67,4.48,-10.97,-27.72,-45.07
+Fintech / Digital Payments,FOUR,39.0,1.3,7.82,-7.78,-20.88,-38.07
+Fintech / Digital Payments,GPN,81.06,-0.89,-0.75,-9.35,8.98,4.73
+Fintech / Digital Payments,PYPL,54.95,0.62,4.61,3.33,21.25,-5.88
+Fintech / Digital Payments,STNE,11.51,-0.95,23.23,14.87,5.02,-22.18
+Fintech / Digital Payments,TOST,30.56,1.02,5.42,-8.2,5.93,-13.94
+Fintech / Digital Payments,XYZ,76.07,-0.62,3.45,-5.04,-1.75,16.86
+Fintech / Digital Payments,CHYM,27.93,1.01,4.84,-13.56,31.07,10.97
+Fintech / Digital Payments,DAVE,344.82,0.49,7.25,-8.39,-11.62,55.74
+Fintech / Digital Payments,NU,15.59,-0.45,23.14,1.7,14.05,-6.87
+Fintech / Digital Payments,SOFI,15.66,-0.63,-0.38,-13.05,-15.9,-40.18
+Fintech / Digital Payments,MA,570.04,0.61,3.37,-0.15,8.95,-0.15
+Fintech / Digital Payments,V,372.02,0.37,3.53,0.92,6.84,6.08
+Cloud Computing,NET,342.82,-3.43,-1.28,20.58,24.3,73.89
+Cloud Computing,TWLO,272.93,-2.67,-6.68,20.82,24.85,91.88
+Cloud Computing,MDB,363.03,0.64,4.14,1.97,0.04,-13.5
+Cloud Computing,SNOW,332.77,-0.95,-2.0,-0.81,24.4,51.7
+Cloud Computing,FROG,98.15,-0.37,1.14,13.17,2.77,57.14
+Cloud Computing,GTLB,51.99,0.7,10.03,10.27,53.54,38.53
+Cloud Computing,TEAM,195.79,0.93,9.2,10.98,115.84,20.75
+Cloud Computing,FSLY,25.28,-0.9,-1.52,17.64,24.35,148.33
+Cloud Computing,AMZN,259.92,1.42,4.32,1.15,5.21,12.61
+Cloud Computing,DOCN,127.33,-2.81,-4.54,0.51,-9.59,164.61
+Cloud Computing,GOOGL,350.5,0.81,1.87,3.59,-2.34,11.98
+Cloud Computing,MSFT,529.76,0.09,3.29,7.25,37.83,9.54
+Cloud Computing,ORCL,143.56,-0.84,4.56,-11.67,-0.46,-26.35
+Cloud Computing,CRWV,88.45,-3.57,1.53,-11.4,-1.39,23.52
+Cloud Computing,NBIS,237.15,-5.09,0.54,-2.76,9.69,183.32
+Cloud Computing,DDOG,271.34,-2.48,-0.92,29.07,0.87,99.53
+Cloud Computing,DT,59.82,-2.01,3.6,18.95,32.26,38.02
+Cloud Computing,ESTC,93.11,-1.58,1.54,5.3,50.03,23.42
+Cloud Computing,CRM,224.54,-0.2,-2.19,-9.86,38.18,-15.24
+Cloud Computing,HUBS,220.31,1.48,7.48,-8.36,6.97,-45.1
+Cloud Computing,NOW,137.85,-0.09,2.87,2.71,26.65,-10.01
+Cloud Computing,PCOR,54.81,0.77,5.97,-2.44,24.51,-24.65
+Cloud Computing,VEEV,282.49,-0.36,-1.04,6.66,48.91,26.55
+Cloud Computing,WDAY,184.26,-1.23,-3.26,-1.08,33.19,-14.21
+Robotics & Automation,AUR,5.72,-0.52,3.25,-12.14,-8.92,48.96
+Robotics & Automation,MBLY,7.15,-4.28,-3.25,-16.08,-24.97,-31.51
+Robotics & Automation,SERV,4.66,-2.31,0.22,-4.9,-22.85,-55.11
+Robotics & Automation,TSLA,377.81,-0.75,6.48,2.62,-7.07,-15.99
+Robotics & Automation,EMR,159.19,-1.37,2.64,4.63,15.52,19.94
+Robotics & Automation,ROK,441.74,-2.0,1.47,2.94,-5.51,13.54
+Robotics & Automation,TER,411.78,-4.31,2.71,10.68,13.52,112.74
+Robotics & Automation,CGNX,61.21,-7.75,0.92,-1.64,-6.92,70.12
+Robotics & Automation,NOVT,143.64,-3.66,1.02,-3.8,-5.29,20.72
+Robotics & Automation,RRX,164.26,-1.26,5.9,0.33,-21.05,17.06
+Robotics & Automation,AMBA,65.33,-3.84,-6.01,2.91,-16.65,-7.78
+Robotics & Automation,OUST,41.67,-7.21,3.3,11.15,-12.33,92.56
+Robotics & Automation,PATH,13.07,-0.19,1.83,-6.67,10.81,-20.23
+Robotics & Automation,ISRG,414.52,2.41,1.94,18.38,0.72,-26.81
+Robotics & Automation,PRCT,17.91,2.28,-1.7,-16.11,-9.32,-43.07
+Robotics & Automation,SYM,43.31,-1.9,2.95,0.02,0.37,-27.21
+Robotics & Automation,ZBRA,386.05,0.07,3.41,9.51,41.59,58.99
 Quantum Computing,QBTS,15.22,-3.61,-8.15,-13.87,-28.07,-41.8
-Quantum Computing,GOOGL,348.93,0.36,1.41,3.12,-2.71,11.7
-Quantum Computing,IBM,221.9,0.28,0.9,-4.39,-24.32,-23.56
-Quantum Computing,QUBT,7.59,-3.5,-10.24,-7.73,-17.1,-26.07
-Quantum Computing,ARQQ,22.45,-4.18,-6.69,-0.62,9.67,2.61
-Quantum Computing,LAES,2.35,-3.1,0.21,-4.29,-18.29,-37.96
-Quantum Computing,RGTI,14.61,-3.66,-7.15,-7.56,-13.98,-34.02
-Quantum Computing,IONQ,41.38,-4.41,-5.65,2.25,-7.57,-7.78
-Space,BKSY,21.92,-3.27,2.86,-0.72,-14.21,16.91
-Space,PL,17.73,-4.52,8.18,-0.45,-34.82,-10.09
+Quantum Computing,GOOGL,350.5,0.81,1.87,3.59,-2.34,11.98
+Quantum Computing,IBM,220.47,-0.37,0.25,-5.01,-25.34,-25.57
+Quantum Computing,QUBT,7.62,-3.05,-9.82,-7.3,-16.72,-25.73
+Quantum Computing,ARQQ,22.55,-3.76,-6.28,-0.18,10.16,3.06
+Quantum Computing,LAES,2.34,-3.31,0.0,-4.49,-18.47,-38.1
+Quantum Computing,RGTI,14.59,-3.82,-7.31,-7.72,-14.13,-34.13
+Quantum Computing,IONQ,41.34,-4.5,-5.75,2.15,-7.66,-7.87
+Space,BKSY,21.84,-3.62,2.49,-1.09,-14.52,16.48
+Space,PL,17.75,-4.42,8.3,-0.34,-34.74,-9.99
 Space,SPIR,10.64,-3.1,-4.83,-12.36,-33.67,41.87
-Space,FLY,21.59,-5.41,-6.72,-5.7,-14.58,-3.46
-Space,RKLB,71.9,-4.21,3.19,9.15,-12.9,3.07
-Space,LUNR,14.43,-4.22,1.3,-8.0,-14.64,-11.12
-Space,ASTS,60.21,-4.61,2.3,-8.93,-18.5,-17.1
-Space,GILT,9.21,-0.11,-6.69,-7.34,-24.26,-28.83
-Space,GSAT,83.52,-0.13,0.76,1.58,4.38,36.83
-Space,IRDM,48.38,-1.34,1.01,1.55,-4.08,181.89
-Space,VSAT,70.86,-4.73,0.68,-8.86,0.67,105.63
-Space,KRMN,31.38,-5.74,-3.21,-20.94,-37.3,-57.11
-Space,RDW,10.19,-4.0,-2.35,-9.22,-2.63,34.14
-Space,VOYG,28.68,-7.12,-5.19,-19.01,-12.13,9.72
-Space,SPCE,3.02,-1.79,0.84,-3.67,15.08,-6.07
-Defense Tech / Drones,ESLT,671.26,-2.87,-1.58,-5.26,-11.78,16.47
-Defense Tech / Drones,MRCY,79.85,-3.57,-3.8,-4.33,-30.11,9.36
-Defense Tech / Drones,BBAI,2.5,-3.1,-5.66,-14.38,-24.7,-53.7
-Defense Tech / Drones,PLTR,193.62,0.81,3.51,13.69,50.05,8.93
-Defense Tech / Drones,AIRO,6.32,-3.29,-4.46,-13.85,-4.46,-22.8
-Defense Tech / Drones,AVAV,138.79,-3.31,-2.41,-6.71,-6.48,-42.62
-Defense Tech / Drones,DPRO,4.74,-5.2,-22.04,-21.26,-1.25,-31.41
-Defense Tech / Drones,KTOS,41.97,-3.99,-1.7,-12.94,-14.09,-44.72
-Defense Tech / Drones,ONDS,7.16,-3.42,-2.37,-6.08,-6.45,-26.67
-Defense Tech / Drones,RCAT,6.13,-3.33,-5.13,-29.52,-33.31,-22.72
-Defense Tech / Drones,UMAC,22.14,-1.01,-9.58,-14.8,6.78,73.74
-Defense Tech / Drones,KRMN,31.38,-5.74,-3.21,-20.94,-37.3,-57.11
-Defense Tech / Drones,LHX,235.24,-1.12,-0.65,-8.02,-18.46,-18.88
-Defense Tech / Drones,LMT,502.19,-1.55,-1.39,-6.33,-2.5,5.71
-Defense Tech / Drones,NOC,475.97,-1.48,-1.55,-8.22,-10.16,-15.51
-Defense Tech / Drones,RTX,181.06,-1.22,-2.47,-8.93,-6.94,-0.2
-Nuclear / Uranium,CW,504.67,-8.8,-7.2,-11.84,-33.54,-8.35
-Nuclear / Uranium,MIR,16.66,2.37,17.95,-1.57,0.39,-28.89
-Nuclear / Uranium,ASPI,2.76,-3.33,3.96,-34.72,-46.45,-48.5
-Nuclear / Uranium,LEU,146.6,-4.73,5.1,-20.98,-15.53,-39.61
-Nuclear / Uranium,LTBR,6.37,-6.87,1.27,-19.26,-25.84,-49.6
-Nuclear / Uranium,CEG,299.52,-0.29,17.91,0.16,19.64,-14.84
-Nuclear / Uranium,TLN,379.6,1.74,21.4,16.52,-1.26,1.27
-Nuclear / Uranium,VST,167.32,4.25,20.94,10.46,6.08,4.17
-Nuclear / Uranium,BWXT,141.94,-2.58,3.61,-11.51,-23.97,-17.52
-Nuclear / Uranium,GEV,993.59,-3.46,4.53,2.29,-7.6,52.31
-Nuclear / Uranium,NNE,15.94,-3.37,0.54,-17.65,-17.39,-33.63
-Nuclear / Uranium,OKLO,36.78,-4.58,-0.63,-15.07,-25.34,-48.74
-Nuclear / Uranium,SMR,7.53,-6.11,-4.68,-32.65,-16.61,-46.86
-Nuclear / Uranium,CCJ,89.13,-4.18,2.84,-12.59,-6.9,-2.58
-Nuclear / Uranium,DNN,2.56,-5.72,-1.35,-23.73,-19.4,-3.95
-Nuclear / Uranium,EU,1.09,-4.82,0.46,-12.5,-17.8,-56.25
-Nuclear / Uranium,NXE,8.94,-5.25,-2.03,-16.42,-5.75,-2.88
-Nuclear / Uranium,UEC,9.48,-6.28,0.26,-20.31,-6.74,-18.88
-Nuclear / Uranium,URG,1.09,-3.12,0.46,-21.94,-18.42,-21.94
-Nuclear / Uranium,UUUU,10.29,-8.61,-6.71,-29.62,-23.72,-29.23
-Nuclear / Uranium,UROY,4.16,-2.0,2.85,-13.8,56.79,17.37
-Smart Grid / Electrification,BE,287.49,-2.8,3.8,3.71,11.86,230.87
-Smart Grid / Electrification,GNRC,219.47,-1.86,6.05,15.38,-6.95,60.94
-Smart Grid / Electrification,WCC,364.32,-5.15,1.31,1.3,10.93,49.64
-Smart Grid / Electrification,AMSC,31.58,-0.85,8.49,3.75,-15.04,9.73
-Smart Grid / Electrification,ETN,428.79,-3.66,-0.21,1.58,5.92,35.75
-Smart Grid / Electrification,HUBB,475.73,-1.99,4.88,2.36,-1.69,8.07
-Smart Grid / Electrification,NVT,166.63,-4.13,3.9,2.5,5.57,64.18
-Smart Grid / Electrification,POWL,197.02,-3.74,6.81,7.96,-16.68,85.65
-Smart Grid / Electrification,VRT,243.69,-3.73,0.99,-16.19,-24.75,50.52
-Smart Grid / Electrification,EME,778.43,-5.59,3.17,0.68,-0.58,27.44
-Smart Grid / Electrification,MTZ,220.85,-3.26,3.38,-10.29,-42.59,1.6
-Smart Grid / Electrification,MYRG,310.52,-4.31,6.18,7.76,-27.94,42.11
-Smart Grid / Electrification,PRIM,82.13,-3.34,10.21,8.97,-8.06,-33.68
-Smart Grid / Electrification,PWR,695.34,-3.37,8.24,8.83,4.08,64.88
-Smart Grid / Electrification,ITRI,84.77,-4.1,-1.82,-12.22,-0.26,-8.71
-Smart Grid / Electrification,GEV,993.59,-3.46,4.53,2.29,-7.6,52.31
-Smart Grid / Electrification,EOSE,3.1,-5.06,0.98,-28.02,-32.42,-72.99
-Smart Grid / Electrification,FLNC,7.59,-5.54,-1.24,-31.3,-54.69,-61.65
-Clean Energy / Solar,BE,287.49,-2.8,3.8,3.71,11.86,230.87
+Space,FLY,21.51,-5.78,-7.08,-6.07,-14.91,-3.84
+Space,RKLB,71.92,-4.18,3.21,9.18,-12.88,3.1
+Space,LUNR,14.41,-4.32,1.19,-8.1,-14.73,-11.21
+Space,ASTS,60.65,-3.91,3.04,-8.27,-17.91,-16.49
+Space,GILT,9.22,0.0,-6.59,-7.24,-24.18,-28.75
+Space,GSAT,83.67,0.05,0.94,1.76,4.56,37.07
+Space,IRDM,48.36,-1.39,0.96,1.17,-4.45,178.25
+Space,VSAT,70.87,-4.72,0.7,-8.85,0.68,105.66
+Space,KRMN,31.41,-5.66,-3.13,-20.87,-37.25,-57.08
+Space,RDW,10.24,-3.53,-1.87,-8.77,-2.15,34.8
+Space,VOYG,28.76,-6.87,-4.93,-18.78,-11.89,10.02
+Space,SPCE,3.02,-1.63,1.0,-3.51,15.27,-5.92
+Defense Tech / Drones,ESLT,669.13,-3.18,-1.89,-5.56,-12.06,15.82
+Defense Tech / Drones,MRCY,79.75,-3.68,-3.92,-4.45,-30.2,9.23
+Defense Tech / Drones,BBAI,2.51,-2.91,-5.47,-14.21,-24.55,-53.61
+Defense Tech / Drones,PLTR,194.12,1.07,3.78,13.99,50.43,9.21
+Defense Tech / Drones,AIRO,6.34,-2.91,-4.08,-13.51,-4.08,-22.49
+Defense Tech / Drones,AVAV,138.86,-3.26,-2.36,-6.67,-6.43,-42.59
+Defense Tech / Drones,DPRO,4.7,-6.0,-22.7,-21.93,-2.08,-31.98
+Defense Tech / Drones,KTOS,41.94,-4.05,-1.76,-12.99,-14.15,-44.75
+Defense Tech / Drones,ONDS,7.19,-2.97,-1.91,-5.64,-6.01,-26.33
+Defense Tech / Drones,RCAT,6.15,-3.0,-4.8,-29.27,-33.08,-22.45
+Defense Tech / Drones,UMAC,21.9,-2.07,-10.55,-15.71,5.63,71.88
+Defense Tech / Drones,KRMN,31.41,-5.66,-3.13,-20.87,-37.25,-57.08
+Defense Tech / Drones,LHX,233.68,-1.77,-1.31,-8.63,-19.38,-20.4
+Defense Tech / Drones,LMT,499.17,-2.15,-1.98,-6.9,-3.68,3.2
+Defense Tech / Drones,NOC,473.4,-2.01,-2.08,-8.71,-11.05,-16.98
+Defense Tech / Drones,RTX,180.27,-1.65,-2.9,-9.33,-7.65,-1.71
+Nuclear / Uranium,CW,509.18,-7.98,-6.37,-11.09,-32.98,-7.64
+Nuclear / Uranium,MIR,16.45,1.14,16.54,-2.75,-0.81,-29.74
+Nuclear / Uranium,ASPI,2.86,0.35,7.92,-32.23,-44.41,-46.54
+Nuclear / Uranium,LEU,147.13,-4.39,5.48,-20.7,-15.23,-39.39
+Nuclear / Uranium,LTBR,6.42,-6.14,2.07,-18.63,-25.26,-49.21
+Nuclear / Uranium,CEG,299.59,-0.27,17.94,0.18,19.48,-15.2
+Nuclear / Uranium,TLN,378.32,1.4,20.99,16.13,-1.59,0.93
+Nuclear / Uranium,VST,166.73,3.88,20.52,9.9,5.54,3.35
+Nuclear / Uranium,BWXT,141.5,-2.88,3.28,-11.79,-24.33,-18.13
+Nuclear / Uranium,GEV,997.63,-3.07,4.96,2.71,-7.22,52.64
+Nuclear / Uranium,NNE,16.01,-2.91,1.01,-17.26,-17.0,-33.32
+Nuclear / Uranium,OKLO,36.8,-4.54,-0.59,-15.03,-25.31,-48.72
+Nuclear / Uranium,SMR,7.67,-4.36,-2.91,-31.4,-15.06,-45.87
+Nuclear / Uranium,CCJ,89.07,-4.25,2.77,-12.65,-6.97,-2.65
+Nuclear / Uranium,DNN,2.56,-5.54,-1.16,-23.59,-19.25,-3.76
+Nuclear / Uranium,EU,1.08,-5.26,0.0,-12.9,-18.18,-56.45
+Nuclear / Uranium,NXE,8.99,-4.61,-1.37,-15.86,-5.12,-2.23
+Nuclear / Uranium,UEC,9.48,-6.23,0.32,-20.27,-6.69,-18.84
+Nuclear / Uranium,URG,1.1,-2.21,1.41,-21.21,-17.65,-21.21
+Nuclear / Uranium,UUUU,10.26,-8.88,-6.98,-29.82,-23.94,-29.44
+Nuclear / Uranium,UROY,4.19,-1.18,3.71,-13.07,58.11,18.36
+Smart Grid / Electrification,BE,291.27,-1.52,5.16,5.07,13.33,235.22
+Smart Grid / Electrification,GNRC,221.46,-0.97,7.01,16.43,-6.11,62.39
+Smart Grid / Electrification,WCC,366.21,-4.65,1.84,1.68,11.34,49.69
+Smart Grid / Electrification,AMSC,31.74,-0.35,9.03,4.27,-14.61,10.28
+Smart Grid / Electrification,ETN,431.29,-3.1,0.37,2.17,6.27,35.41
+Smart Grid / Electrification,HUBB,475.62,-2.02,4.85,2.34,-2.02,7.1
+Smart Grid / Electrification,NVT,167.82,-3.44,4.65,3.23,6.18,64.58
+Smart Grid / Electrification,POWL,197.74,-3.4,7.19,8.36,-16.42,86.09
+Smart Grid / Electrification,VRT,246.51,-2.62,2.15,-15.24,-23.9,52.16
+Smart Grid / Electrification,EME,784.39,-4.87,3.96,1.45,0.13,28.21
+Smart Grid / Electrification,MTZ,223.48,-2.11,4.62,-9.22,-41.91,2.81
+Smart Grid / Electrification,MYRG,313.08,-3.52,7.05,8.65,-27.34,43.29
+Smart Grid / Electrification,PRIM,82.3,-3.14,10.44,9.08,-7.97,-33.7
+Smart Grid / Electrification,PWR,701.15,-2.56,9.13,9.72,4.94,66.13
+Smart Grid / Electrification,ITRI,85.58,-3.18,-0.88,-11.38,0.69,-7.84
+Smart Grid / Electrification,GEV,997.63,-3.07,4.96,2.71,-7.22,52.64
+Smart Grid / Electrification,EOSE,3.1,-4.91,1.14,-27.91,-32.31,-72.95
+Smart Grid / Electrification,FLNC,7.67,-4.48,-0.13,-30.53,-54.18,-61.22
+Clean Energy / Solar,BE,291.27,-1.52,5.16,5.07,13.33,235.22
 Clean Energy / Solar,PLUG,1.78,-4.3,-8.25,-21.24,-25.21,-9.64
-Clean Energy / Solar,ORA,90.08,-3.21,-1.54,-16.56,-18.29,-18.2
-Clean Energy / Solar,ENPH,33.03,-2.6,0.12,-14.94,-26.42,3.06
-Clean Energy / Solar,SEDG,32.6,-4.23,2.29,-10.51,-40.47,13.0
-Clean Energy / Solar,BEP,29.31,-0.37,4.16,-8.78,-10.02,12.57
-Clean Energy / Solar,CWEN,30.36,-1.2,3.72,-8.31,-7.64,-5.13
-Clean Energy / Solar,NEE,77.03,-1.1,1.7,-8.12,-10.9,-1.96
-Clean Energy / Solar,RUN,7.59,-2.38,-2.38,-17.73,-39.13,-58.78
-Clean Energy / Solar,SHLS,8.4,-1.12,3.64,13.14,-16.72,-1.24
-Clean Energy / Solar,CSIQ,11.08,-3.99,-3.82,-20.12,-26.08,-53.39
-Clean Energy / Solar,FSLR,179.18,-0.34,2.3,-15.98,-21.58,-31.41
-Clean Energy / Solar,JKS,8.74,-3.85,-8.1,-29.69,-44.19,-63.3
-Clean Energy / Solar,FLNC,7.59,-5.54,-1.24,-31.3,-54.69,-61.65
-Clean Energy / Solar,ARRY,3.83,-5.67,-4.96,-18.51,-40.71,-58.46
-Clean Energy / Solar,NXT,85.4,-3.05,9.59,-0.06,-24.23,-1.96
-EV / Batteries / Lithium,ENVX,2.59,-4.26,-10.86,-25.5,-52.13,-64.64
-EV / Batteries / Lithium,CHPT,8.27,-4.59,-17.94,-11.72,43.11,24.57
-EV / Batteries / Lithium,EVGO,1.27,-3.41,1.19,-9.57,-28.77,-56.19
-EV / Batteries / Lithium,LCID,3.87,-7.09,-5.04,-16.52,-33.7,-63.43
+Clean Energy / Solar,ORA,90.01,-3.29,-1.62,-16.63,-18.45,-18.52
+Clean Energy / Solar,ENPH,33.5,-1.21,1.55,-13.73,-25.37,4.52
+Clean Energy / Solar,SEDG,33.16,-2.59,4.05,-8.98,-39.44,14.94
+Clean Energy / Solar,BEP,29.43,0.03,4.58,-8.4,-10.76,9.12
+Clean Energy / Solar,CWEN,30.29,-1.43,3.48,-8.52,-9.23,-8.93
+Clean Energy / Solar,NEE,77.05,-1.07,1.73,-8.09,-11.54,-4.02
+Clean Energy / Solar,RUN,7.61,-2.06,-2.06,-17.46,-38.92,-58.64
+Clean Energy / Solar,SHLS,8.39,-1.18,3.58,13.07,-16.77,-1.29
+Clean Energy / Solar,CSIQ,11.25,-2.51,-2.34,-18.89,-24.95,-52.67
+Clean Energy / Solar,FSLR,180.13,0.18,2.84,-15.53,-21.17,-31.05
+Clean Energy / Solar,JKS,8.88,-2.31,-6.62,-28.56,-43.3,-65.59
+Clean Energy / Solar,FLNC,7.67,-4.48,-0.13,-30.53,-54.18,-61.22
+Clean Energy / Solar,ARRY,3.82,-5.91,-5.21,-18.72,-40.87,-58.57
+Clean Energy / Solar,NXT,86.04,-2.33,10.41,0.69,-23.66,-1.23
+EV / Batteries / Lithium,ENVX,2.55,-5.56,-12.07,-26.51,-52.78,-65.12
+EV / Batteries / Lithium,CHPT,8.23,-5.07,-18.35,-12.17,42.39,23.95
+EV / Batteries / Lithium,EVGO,1.29,-2.27,2.38,-8.51,-27.93,-55.67
+EV / Batteries / Lithium,LCID,3.89,-6.49,-4.42,-15.98,-33.28,-63.2
 EV / Batteries / Lithium,LI,10.99,0.92,-3.26,-11.8,-7.72,-35.09
-EV / Batteries / Lithium,NIO,3.53,1.44,2.92,-6.86,-26.15,-30.78
-EV / Batteries / Lithium,RIVN,14.26,-1.72,-4.55,-11.81,-21.3,-27.65
-EV / Batteries / Lithium,TSLA,377.35,-0.88,6.35,2.49,-7.18,-16.09
-EV / Batteries / Lithium,XPEV,9.56,-0.05,-0.05,-12.58,-26.39,-52.88
-EV / Batteries / Lithium,ALB,103.32,-2.85,-2.33,-19.99,-19.27,-26.34
+EV / Batteries / Lithium,NIO,3.54,1.58,3.06,-6.73,-26.05,-30.69
+EV / Batteries / Lithium,RIVN,14.34,-1.17,-4.02,-11.32,-20.86,-27.25
+EV / Batteries / Lithium,TSLA,377.81,-0.75,6.48,2.62,-7.07,-15.99
+EV / Batteries / Lithium,XPEV,9.59,0.31,0.31,-12.26,-26.12,-52.71
+EV / Batteries / Lithium,ALB,102.75,-3.39,-2.86,-20.7,-19.99,-27.35
 EV / Batteries / Lithium,LAC,2.4,-5.31,-8.56,-19.83,-32.44,-44.84
-EV / Batteries / Lithium,SGML,9.77,0.67,3.99,-6.28,-17.3,-25.89
-EV / Batteries / Lithium,SQM,64.5,-2.52,-0.56,-14.74,-11.27,-3.36
-EV / Batteries / Lithium,MP,46.22,-4.75,-2.25,-16.52,-10.61,-8.5
-EV / Batteries / Lithium,QS,4.49,-3.33,-3.23,-19.59,-34.95,-56.86
-EV / Batteries / Lithium,SLDP,2.38,1.28,0.21,-7.39,-0.83,-44.0
-Obesity / GLP-1,MDGL,494.89,-0.31,-1.8,-7.35,-11.63,-15.02
-Obesity / GLP-1,LLY,1193.25,3.09,3.13,6.17,-1.81,11.57
-Obesity / GLP-1,NVO,38.19,1.76,0.74,-15.43,-20.87,-21.19
-Obesity / GLP-1,ALT,2.69,0.94,-5.77,-19.79,-13.62,-25.35
-Obesity / GLP-1,AMGN,412.71,2.51,-2.09,4.97,14.17,28.67
-Obesity / GLP-1,GPCR,26.89,-2.11,-14.01,-33.41,-51.23,-61.34
-Obesity / GLP-1,VKTX,28.67,1.02,-12.06,-14.88,-30.31,-18.5
-Obesity / GLP-1,RYTM,90.01,-0.84,-5.47,-11.58,-22.06,-15.91
-Obesity / GLP-1,HIMS,29.78,1.05,-0.03,5.72,-15.99,-8.28
-Video Games / Esports,U,45.72,1.71,11.7,6.95,48.78,3.51
-Video Games / Esports,CRSR,13.67,0.22,1.26,11.5,43.14,130.13
-Video Games / Esports,LOGI,102.75,0.33,1.74,6.03,2.74,4.22
+EV / Batteries / Lithium,SGML,9.86,1.54,4.89,-5.47,-16.58,-25.25
+EV / Batteries / Lithium,SQM,64.58,-2.4,-0.45,-14.64,-12.84,-6.13
+EV / Batteries / Lithium,MP,46.31,-4.58,-2.08,-16.37,-10.45,-8.34
+EV / Batteries / Lithium,QS,4.52,-2.8,-2.69,-19.14,-34.59,-56.62
+EV / Batteries / Lithium,SLDP,2.4,2.13,1.05,-6.61,0.0,-43.53
+Obesity / GLP-1,MDGL,487.72,-1.76,-3.22,-8.69,-12.91,-16.25
+Obesity / GLP-1,LLY,1188.29,2.66,2.7,5.73,-2.36,10.57
+Obesity / GLP-1,NVO,38.26,1.95,0.92,-15.28,-21.73,-24.8
+Obesity / GLP-1,ALT,2.66,-0.37,-6.99,-20.83,-14.74,-26.32
+Obesity / GLP-1,AMGN,413.08,2.6,-2.0,5.06,13.6,26.2
+Obesity / GLP-1,VKTX,28.54,0.56,-12.45,-15.26,-30.63,-18.87
+Obesity / GLP-1,RYTM,88.45,-2.56,-7.1,-13.11,-23.41,-17.37
+Obesity / GLP-1,HIMS,29.56,0.31,-0.77,4.93,-16.61,-8.96
+Video Games / Esports,U,45.45,1.11,11.04,6.32,47.9,2.9
+Video Games / Esports,CRSR,13.59,-0.37,0.67,10.85,42.3,128.79
+Video Games / Esports,LOGI,102.18,-0.22,1.18,3.73,0.5,1.96
 Video Games / Esports,SONY,23.5,-1.49,-0.15,-0.15,12.26,-8.22
-Video Games / Esports,RBLX,46.3,1.62,9.28,3.3,-17.95,-42.86
-Video Games / Esports,NTES,120.64,1.31,-0.43,0.99,-9.55,-10.59
-Video Games / Esports,PLTK,2.31,0.87,7.94,4.05,-38.24,-41.52
-Video Games / Esports,SE,94.88,-1.71,-2.55,-16.28,-13.04,-25.63
-Video Games / Esports,TTWO,204.73,1.09,-1.33,-4.01,-16.81,-20.04
-Water,FELE,97.42,-1.85,1.59,-1.73,-3.96,2.79
-Water,MWA,21.4,-2.55,0.75,-9.93,-13.86,-9.47
-Water,PNR,52.44,-0.95,-1.05,-10.55,-29.38,-49.15
-Water,WMS,125.83,-3.26,-0.69,-5.87,-14.77,-12.77
-Water,WTS,346.68,-4.35,-2.12,-3.96,-0.21,26.27
-Water,ZWS,46.3,-3.24,-0.37,-2.18,-0.78,0.27
-Water,BMI,124.57,0.68,0.83,-3.16,-13.8,-27.92
-Water,ECL,278.18,-0.94,1.31,0.29,2.16,6.82
-Water,ERII,6.72,-5.01,0.82,-12.66,-24.69,-50.15
-Water,VLTO,95.65,-0.83,1.41,0.26,3.99,-3.72
-Water,XYL,102.18,-2.29,0.9,-6.09,-13.73,-24.13
-Water,AWK,127.09,-0.74,-1.84,-9.47,-2.0,-0.59
-Water,AWR,81.37,-0.23,-1.17,-8.24,-2.37,14.51
-Water,CWT,45.27,-0.61,-2.16,-9.22,-7.2,6.8
-AI Compute & Networking,ALAB,381.17,-2.21,7.08,31.96,-8.69,129.12
-AI Compute & Networking,CRDO,219.45,-0.63,12.66,30.82,-17.39,52.51
-AI Compute & Networking,AVGO,373.62,-0.58,6.39,1.56,-6.68,8.55
-AI Compute & Networking,MRVL,282.38,-1.61,6.88,25.27,16.1,232.77
-AI Compute & Networking,TSM,472.69,-1.99,3.62,7.96,8.47,56.77
-AI Compute & Networking,AMD,644.5,-0.76,5.35,27.44,17.88,200.94
-AI Compute & Networking,NVDA,236.71,-1.06,3.65,4.98,16.86,27.22
-AI Compute & Networking,ARM,297.13,-1.79,2.58,13.61,-9.38,171.82
-AI Compute & Networking,MU,1086.25,3.89,1.98,8.6,9.54,280.81
-AI Compute & Networking,ANET,216.14,0.36,6.16,10.86,17.03,64.95
-AI Compute & Networking,COHR,333.83,-1.34,15.99,10.58,2.01,80.87
-AI Compute & Networking,LITE,1112.83,-1.81,14.58,13.72,41.62,201.92
-AI Compute & Networking,CLS,370.98,-4.44,2.64,12.43,4.57,25.5
-AI Compute & Networking,SMCI,44.9,3.32,9.34,11.54,59.01,53.42
-Data Center Physical Layer,FIX,1713.27,-5.76,3.58,3.93,-3.78,83.84
-Data Center Physical Layer,PWR,695.34,-3.37,8.24,8.83,4.08,64.88
-Data Center Physical Layer,MOD,187.62,-1.2,0.23,-2.46,-22.95,40.53
-Data Center Physical Layer,TT,469.4,-1.47,3.85,5.25,-0.32,21.46
-Data Center Physical Layer,DLR,181.57,-1.67,3.44,-3.53,1.94,19.76
-Data Center Physical Layer,EQIX,1037.33,-0.96,2.55,-0.37,0.72,37.46
-Data Center Physical Layer,APH,87.63,-1.12,3.95,7.35,8.19,30.34
-Data Center Physical Layer,BE,287.49,-2.8,3.8,3.71,11.86,230.87
-Data Center Physical Layer,ETN,428.79,-3.66,-0.21,1.58,5.92,35.75
-Data Center Physical Layer,NVT,166.63,-4.13,3.9,2.5,5.57,64.18
-Data Center Physical Layer,VRT,243.69,-3.73,0.99,-16.19,-24.75,50.52
-AI in Healthcare,RXRX,4.41,-4.75,6.78,28.2,17.29,7.82
-AI in Healthcare,SDGR,27.56,-4.64,-11.24,37.59,64.15,54.14
-AI in Healthcare,BFLY,8.27,-5.0,-7.76,9.91,3.05,117.5
-AI in Healthcare,CERT,9.06,-2.32,-1.58,16.99,33.36,2.78
-AI in Healthcare,HTFL,49.87,-1.62,0.24,4.44,79.91,71.08
-AI in Healthcare,IRTC,106.29,-0.85,-6.48,-13.05,-9.86,-40.1
-AI in Healthcare,HNGE,98.47,0.13,1.27,6.24,9.51,112.0
-AI in Healthcare,TEM,71.61,-0.51,-12.56,11.39,16.44,21.27
-Medtech / Devices,BSX,42.02,-0.4,-3.73,-6.58,-6.6,-55.93
-Medtech / Devices,EW,86.31,-0.2,-0.01,-0.47,-5.5,1.24
-Medtech / Devices,DXCM,84.51,1.34,-2.06,-0.02,15.74,27.33
-Medtech / Devices,PODD,135.95,0.91,4.2,-4.45,-14.11,-52.17
-Medtech / Devices,TNDM,16.32,0.96,0.03,-17.93,6.15,-25.77
-Medtech / Devices,MDT,85.94,-1.32,-0.41,-6.22,5.16,-8.24
-Medtech / Devices,PEN,317.32,0.08,-0.32,-0.61,-0.2,2.06
-Medtech / Devices,GMED,75.31,-1.46,0.55,0.36,-1.73,-13.74
-Medtech / Devices,SYK,277.57,-0.23,0.79,0.73,-14.88,-20.35
-Medtech / Devices,INSP,68.12,-0.12,-1.79,9.62,32.22,-26.14
-Medtech / Devices,ISRG,414.27,2.35,1.88,18.31,0.66,-26.85
-Medtech / Devices,TMDX,82.1,2.27,-1.62,-6.99,13.73,-32.51
-Aging Population,SCI,77.05,-0.32,1.18,-4.44,1.0,0.16
-Aging Population,ALHC,8.56,2.21,4.84,-36.44,-59.32,-56.68
-Aging Population,HUM,402.93,-0.33,5.6,-0.04,1.3,58.49
-Aging Population,BKD,10.87,-0.28,0.37,-10.09,-28.86,0.74
-Aging Population,VTR,80.75,-1.35,-5.02,-9.6,-11.44,6.28
-Aging Population,WELL,222.4,-1.5,-3.41,-6.26,-3.83,21.11
-Aging Population,ENSG,169.34,-1.58,-1.54,-0.66,0.29,-2.68
-Oil & Gas – E&P / Integrated,APA,43.65,-1.02,5.08,0.23,32.04,82.63
-Oil & Gas – E&P / Integrated,CHRD,135.26,-1.65,0.88,-8.37,15.17,50.05
-Oil & Gas – E&P / Integrated,COP,129.54,0.14,3.5,-4.08,20.72,41.43
-Oil & Gas – E&P / Integrated,DVN,47.63,-0.81,3.46,-0.95,14.09,32.49
-Oil & Gas – E&P / Integrated,EOG,143.79,-0.34,4.38,-1.08,8.48,40.35
-Oil & Gas – E&P / Integrated,FANG,182.4,-1.39,-0.76,-8.64,0.77,23.41
-Oil & Gas – E&P / Integrated,MTDR,52.33,-1.09,1.46,-12.44,2.64,26.06
-Oil & Gas – E&P / Integrated,MUR,36.78,-2.67,-0.65,-2.13,10.55,21.19
-Oil & Gas – E&P / Integrated,OVV,61.23,-0.41,5.9,-4.04,11.74,58.65
-Oil & Gas – E&P / Integrated,OXY,57.94,-0.68,4.73,-4.04,11.28,42.87
-Oil & Gas – E&P / Integrated,PR,22.08,-1.23,4.52,-6.05,16.58,61.07
-Oil & Gas – E&P / Integrated,CVX,205.26,-1.12,0.51,-2.16,18.96,38.44
-Oil & Gas – E&P / Integrated,XOM,163.96,-0.32,0.74,2.05,20.05,38.98
-Oilfield Services,LBRT,19.54,-2.88,7.24,-8.69,-18.9,6.97
-Oilfield Services,BKR,55.23,-3.33,0.6,-13.6,-3.09,22.59
-Oilfield Services,HAL,31.68,-3.16,-0.36,-13.9,-6.71,13.67
-Oilfield Services,SLB,48.08,-3.85,-1.32,-15.81,2.3,27.32
-Oilfield Services,WFRD,76.61,-4.17,-2.63,-18.24,-7.16,-1.28
-Oilfield Services,FTI,68.23,-2.38,0.46,-12.7,-3.2,53.44
-Oilfield Services,NOV,18.55,-2.37,-0.96,-12.91,1.08,20.82
-Oilfield Services,HP,39.52,-0.23,6.41,-9.59,21.35,40.52
-Oilfield Services,PTEN,11.22,-1.71,2.7,-11.41,20.26,88.9
-Oilfield Services,RIG,5.38,-0.37,2.67,-6.6,4.67,30.27
-Oilfield Services,TDW,82.93,1.05,2.26,-9.86,17.36,64.19
-Oilfield Services,VAL,81.44,-0.68,3.72,-4.76,6.69,61.59
-Midstream / Pipelines,DTM,123.65,-0.76,3.5,-5.05,-15.49,5.37
-Midstream / Pipelines,KMI,31.83,-1.01,5.59,-0.45,-0.83,19.11
-Midstream / Pipelines,WMB,71.5,-1.23,5.19,-5.03,-4.55,21.57
-Midstream / Pipelines,EPD,36.83,-1.17,3.41,-5.16,0.23,20.19
-Midstream / Pipelines,MPLX,57.13,-1.11,1.44,-4.51,1.71,13.29
-Midstream / Pipelines,PAA,24.01,-0.19,1.24,-7.53,6.99,41.52
-Midstream / Pipelines,AM,20.81,-1.58,3.2,-9.15,-6.9,20.85
-Midstream / Pipelines,OKE,88.02,-1.36,3.23,-9.73,-0.48,24.31
-Midstream / Pipelines,TRGP,283.16,-0.9,4.75,-3.78,4.2,55.74
-Midstream / Pipelines,WES,45.6,-1.26,2.77,-7.75,3.66,23.02
-Refiners,CVI,57.14,-0.49,12.06,23.89,83.26,126.0
-Refiners,DINO,115.93,1.16,8.02,7.04,50.48,157.48
-Refiners,DK,75.42,-0.33,5.67,-0.33,34.97,158.37
-Refiners,PARR,85.63,-1.47,4.91,4.33,30.65,143.68
-Refiners,PBF,83.39,0.62,8.35,8.62,57.01,213.17
-Refiners,MPC,440.46,1.87,11.39,10.73,55.9,173.98
-Refiners,PSX,271.11,0.49,6.19,4.62,43.58,114.49
-Refiners,VLO,422.03,0.67,8.88,10.23,50.64,163.09
-Natural Gas / LNG,AR,35.4,-0.88,6.03,-9.4,2.65,2.74
-Natural Gas / LNG,EQT,52.08,-0.73,7.26,-5.51,4.18,-1.97
-Natural Gas / LNG,EXE,87.49,-0.84,4.04,-10.9,-1.08,-19.33
-Natural Gas / LNG,RRC,39.79,-0.57,7.42,-4.79,8.59,13.68
-Natural Gas / LNG,LNG,272.33,-1.06,1.23,-1.34,4.45,41.1
-Natural Gas / LNG,NEXT,6.64,-2.71,4.65,-11.04,-17.35,26.09
-Natural Gas / LNG,VG,12.99,-3.85,2.77,-11.58,3.94,91.5
-Gold & Silver Miners,EQX,11.03,-3.08,-0.72,-12.74,13.47,-21.11
-Gold & Silver Miners,IAG,18.1,-2.4,-1.66,-9.97,17.03,9.79
-Gold & Silver Miners,FNV,237.25,-2.76,-0.36,-10.09,14.2,15.08
-Gold & Silver Miners,RGLD,228.72,-2.4,-2.89,-12.31,15.3,3.76
-Gold & Silver Miners,WPM,134.31,-2.43,0.44,-13.41,21.54,14.79
-Gold & Silver Miners,AEM,181.12,-2.64,-1.17,-10.27,21.8,7.53
-Gold & Silver Miners,AU,90.08,-3.71,-4.12,-16.46,10.67,9.4
-Gold & Silver Miners,B,39.4,-3.25,-3.13,-10.67,7.38,-8.04
-Gold & Silver Miners,GFI,35.17,-2.75,-2.62,-23.77,5.68,-15.21
-Gold & Silver Miners,KGC,23.23,-2.46,-3.55,-22.97,-3.9,-17.2
-Gold & Silver Miners,NEM,113.87,-2.17,-1.27,-10.4,20.35,14.78
-Gold & Silver Miners,AG,16.72,-4.7,-5.51,-19.45,-2.52,0.53
-Gold & Silver Miners,CDE,16.55,-3.64,-5.99,-19.92,3.28,-7.1
-Gold & Silver Miners,HL,16.47,-3.71,-3.32,-19.53,4.29,-14.15
-Gold & Silver Miners,PAAS,44.51,-3.08,-2.21,-12.74,1.22,-13.29
-Copper,FCX,71.79,-1.07,2.55,-6.31,18.88,42.35
-Copper,SCCO,199.9,-2.13,-1.35,-4.15,16.62,45.81
-Copper,TECK,65.3,-2.68,-0.74,-9.14,10.4,36.97
-Copper,ERO,36.86,-2.82,0.46,-2.77,47.09,30.29
-Copper,HBM,25.97,-3.65,-2.68,-10.47,20.35,30.92
-Rare Earths & Critical Minerals,PPTA,20.11,-2.47,-6.77,-18.78,1.57,-16.94
-Rare Earths & Critical Minerals,UAMY,3.84,-3.76,-7.91,-29.41,-41.99,-23.51
+Video Games / Esports,RBLX,46.42,1.9,9.57,3.58,-17.73,-42.71
+Video Games / Esports,NTES,120.61,1.29,-0.45,0.97,-9.93,-12.36
+Video Games / Esports,PLTK,2.32,1.31,8.41,4.5,-37.97,-41.27
+Video Games / Esports,SE,94.68,-1.92,-2.75,-16.46,-13.23,-25.78
+Video Games / Esports,TTWO,204.01,0.73,-1.68,-4.35,-17.1,-20.32
+Water,FELE,97.59,-1.67,1.77,-1.55,-4.03,2.16
+Water,MWA,21.4,-2.55,0.75,-9.93,-14.09,-10.16
+Water,PNR,52.18,-1.44,-1.53,-10.99,-30.03,-49.89
+Water,WMS,126.04,-3.1,-0.53,-5.71,-14.75,-12.97
+Water,WTS,348.14,-3.95,-1.71,-3.56,0.04,26.13
+Water,ZWS,46.5,-2.82,0.06,-1.75,-0.58,0.02
+Water,BMI,124.07,0.27,0.43,-3.55,-14.42,-28.86
+Water,ECL,278.03,-0.99,1.26,-0.03,1.83,5.91
+Water,ERII,6.73,-4.94,0.9,-12.6,-24.64,-50.11
+Water,VLTO,95.72,-0.76,1.48,0.2,3.93,-4.07
+Water,XYL,101.83,-2.62,0.55,-6.41,-14.35,-25.22
+Water,AWK,127.41,-0.49,-1.59,-9.24,-2.4,-2.37
+Water,AWR,81.47,-0.11,-1.04,-8.13,-2.85,12.4
+Water,CWT,45.39,-0.35,-1.9,-8.98,-7.57,4.75
+AI Compute & Foundry,AVGO,376.51,0.19,7.21,2.16,-6.13,8.79
+AI Compute & Foundry,MRVL,284.68,-0.81,7.75,26.29,17.02,235.0
+AI Compute & Foundry,TSM,472.15,-2.1,3.5,7.55,8.05,55.37
+AI Compute & Foundry,INTC,113.12,0.55,-5.91,8.28,0.52,206.56
+AI Compute & Foundry,AMD,645.86,-0.55,5.57,27.71,18.13,201.58
+AI Compute & Foundry,NVDA,237.47,-0.74,3.98,5.2,17.11,27.33
+AI Compute & Foundry,CLS,371.73,-4.25,2.85,12.66,4.78,25.75
+AI Compute & Foundry,DELL,578.98,0.87,7.63,8.45,28.6,359.95
+AI Compute & Foundry,SMCI,44.94,3.41,9.42,11.62,59.14,53.54
+Data Center Physical Layer,APLD,23.81,-6.04,-2.3,-15.9,-26.26,-2.9
+Data Center Physical Layer,DY,282.51,-2.73,4.99,-6.73,-33.87,-16.39
+Data Center Physical Layer,FIX,1741.34,-4.21,5.27,5.63,-2.25,86.58
+Data Center Physical Layer,IESC,308.83,-9.66,-3.82,-9.91,-3.91,58.77
+Data Center Physical Layer,PWR,701.15,-2.56,9.13,9.72,4.94,66.13
+Data Center Physical Layer,MOD,189.55,-0.19,1.26,-1.45,-22.15,41.98
+Data Center Physical Layer,TT,467.18,-1.93,3.36,4.75,-1.02,20.04
+Data Center Physical Layer,DLR,180.44,-2.28,2.8,-4.78,0.62,16.63
+Data Center Physical Layer,EQIX,1031.77,-1.49,2.0,-0.91,-0.3,34.67
+Data Center Physical Layer,IRM,115.77,-0.63,4.34,-0.27,-3.11,39.57
+Data Center Physical Layer,APH,87.55,-1.2,3.86,7.09,7.93,29.58
+Data Center Physical Layer,BE,291.27,-1.52,5.16,5.07,13.33,235.22
+Data Center Physical Layer,ETN,431.29,-3.1,0.37,2.17,6.27,35.41
+Data Center Physical Layer,NVT,167.82,-3.44,4.65,3.23,6.18,64.58
+Data Center Physical Layer,VRT,246.51,-2.62,2.15,-15.24,-23.9,52.16
+AI in Healthcare,RXRX,4.27,-7.78,3.39,24.13,13.56,4.4
+AI in Healthcare,SDGR,27.29,-5.57,-12.11,36.25,62.54,52.63
+AI in Healthcare,BFLY,8.28,-4.83,-7.59,10.11,3.24,117.89
+AI in Healthcare,CERT,8.96,-3.34,-2.61,15.76,31.96,1.7
+AI in Healthcare,HTFL,49.36,-2.62,-0.78,3.37,78.07,69.33
+AI in Healthcare,IRTC,104.99,-2.06,-7.63,-14.11,-10.96,-40.83
+AI in Healthcare,HNGE,97.87,-0.49,0.65,5.59,8.84,110.7
+AI in Healthcare,TEM,70.35,-2.26,-14.1,9.43,14.39,19.14
+Medtech / Devices,BSX,41.57,-1.47,-4.76,-7.58,-7.6,-56.4
+Medtech / Devices,EW,85.78,-0.81,-0.63,-1.08,-6.08,0.62
+Medtech / Devices,DXCM,84.3,1.09,-2.31,-0.27,15.45,27.02
+Medtech / Devices,PODD,134.36,-0.27,2.98,-5.57,-15.12,-52.73
+Medtech / Devices,TNDM,15.84,-1.98,-2.88,-20.32,3.06,-27.93
+Medtech / Devices,MDT,85.49,-1.83,-0.92,-7.46,3.77,-11.0
+Medtech / Devices,PEN,316.43,-0.2,-0.6,-0.89,-0.48,1.78
+Medtech / Devices,GMED,73.75,-3.51,-1.54,-1.72,-3.77,-15.53
+Medtech / Devices,SYK,275.42,-1.0,0.01,-0.37,-15.8,-21.64
+Medtech / Devices,INSP,67.5,-1.03,-2.68,8.63,31.02,-26.81
+Medtech / Devices,ISRG,414.52,2.41,1.94,18.38,0.72,-26.81
+Medtech / Devices,TMDX,81.07,0.98,-2.85,-8.16,12.3,-33.36
+Aging Population,SCI,76.88,-0.54,0.96,-5.07,0.33,-1.4
+Aging Population,ALHC,8.55,2.15,4.78,-36.48,-59.34,-56.71
+Aging Population,HUM,396.21,-1.99,3.84,-1.71,-0.39,54.69
+Aging Population,BKD,10.78,-1.1,-0.46,-10.84,-29.45,-0.09
+Aging Population,VTR,80.05,-2.21,-5.85,-10.93,-12.74,3.45
+Aging Population,WELL,221.17,-2.04,-3.94,-6.78,-4.72,19.16
+Aging Population,ENSG,169.22,-1.65,-1.62,-0.77,0.18,-2.86
+Oil & Gas – E&P / Integrated,APA,43.81,-0.66,5.46,0.6,31.6,79.11
+Oil & Gas – E&P / Integrated,CHRD,136.05,-1.08,1.48,-7.83,14.83,46.76
+Oil & Gas – E&P / Integrated,COP,129.85,0.38,3.75,-3.85,20.2,38.71
+Oil & Gas – E&P / Integrated,DVN,47.88,-0.29,4.0,-1.07,13.95,30.71
+Oil & Gas – E&P / Integrated,EOG,144.2,-0.06,4.67,-0.8,7.98,37.32
+Oil & Gas – E&P / Integrated,FANG,184.38,-0.32,0.31,-7.65,1.31,22.65
+Oil & Gas – E&P / Integrated,MTDR,52.86,-0.09,2.48,-11.56,2.88,24.55
+Oil & Gas – E&P / Integrated,MUR,37.26,-1.42,0.63,-0.86,10.84,19.22
+Oil & Gas – E&P / Integrated,OVV,61.46,-0.04,6.29,-4.13,11.63,56.81
+Oil & Gas – E&P / Integrated,OXY,58.2,-0.22,5.21,-4.04,11.28,41.54
+Oil & Gas – E&P / Integrated,PR,22.17,-0.81,4.97,-6.26,16.32,58.02
+Oil & Gas – E&P / Integrated,CVX,205.17,-1.16,0.47,-2.21,17.88,34.62
+Oil & Gas – E&P / Integrated,XOM,164.05,-0.26,0.8,2.11,19.34,36.32
+Oilfield Services,LBRT,19.42,-3.45,6.61,-9.23,-19.73,5.23
+Oilfield Services,BKR,55.41,-3.01,0.93,-13.31,-3.13,21.67
+Oilfield Services,HAL,31.76,-2.93,-0.13,-13.7,-6.92,12.38
+Oilfield Services,SLB,47.96,-4.08,-1.56,-16.01,1.52,24.96
+Oilfield Services,WFRD,76.42,-4.4,-2.87,-18.44,-7.68,-2.35
+Oilfield Services,FTI,68.4,-2.13,0.71,-12.49,-3.02,53.5
+Oilfield Services,NOV,18.61,-2.05,-0.64,-13.0,0.98,19.07
+Oilfield Services,HP,39.67,0.15,6.81,-9.24,21.13,38.32
+Oilfield Services,PTEN,11.23,-1.58,2.84,-11.3,19.47,83.8
+Oilfield Services,RIG,5.4,0.0,3.05,-6.25,5.06,30.75
+Oilfield Services,TDW,83.39,1.61,2.82,-9.36,18.02,65.1
+Oilfield Services,VAL,81.88,-0.15,4.28,-4.25,7.27,62.46
+Midstream / Pipelines,DTM,122.7,-1.52,2.7,-6.44,-16.72,2.52
+Midstream / Pipelines,KMI,31.81,-1.09,5.51,-0.53,-1.82,15.72
+Midstream / Pipelines,WMB,71.45,-1.3,5.12,-5.78,-5.3,18.87
+Midstream / Pipelines,EPD,36.92,-0.93,3.66,-4.93,-1.01,15.14
+Midstream / Pipelines,MPLX,57.04,-1.26,1.28,-4.66,-0.26,6.88
+Midstream / Pipelines,PAA,24.09,0.12,1.56,-7.24,5.52,34.13
+Midstream / Pipelines,AM,20.85,-1.35,3.45,-8.93,-7.64,17.23
+Midstream / Pipelines,OKE,88.06,-1.31,3.27,-9.69,-1.61,19.81
+Midstream / Pipelines,TRGP,283.98,-0.61,5.06,-3.5,4.01,53.92
+Midstream / Pipelines,WES,45.56,-1.34,2.68,-7.83,1.54,15.34
+Refiners,CVI,57.38,-0.08,12.52,24.4,83.42,125.53
+Refiners,DINO,115.63,0.9,7.74,6.76,49.16,150.93
+Refiners,DK,75.45,-0.29,5.72,-0.29,34.51,154.38
+Refiners,PARR,86.1,-0.93,5.49,4.9,31.37,145.02
+Refiners,PBF,83.67,0.95,8.72,8.99,56.95,208.52
+Refiners,MPC,442.4,2.32,11.88,11.22,56.16,172.03
+Refiners,PSX,271.49,0.63,6.34,4.77,43.02,110.39
+Refiners,VLO,424.05,1.15,9.4,10.76,50.78,160.49
+Natural Gas / LNG,AR,35.59,-0.36,6.59,-8.93,3.19,3.28
+Natural Gas / LNG,EQT,52.31,-0.3,7.72,-5.1,4.31,-2.41
+Natural Gas / LNG,EXE,88.12,-0.12,4.79,-10.26,-0.96,-20.15
+Natural Gas / LNG,RRC,39.83,-0.47,7.53,-4.92,8.44,12.96
+Natural Gas / LNG,LNG,272.16,-1.13,1.16,-1.4,4.16,40.01
+Natural Gas / LNG,NEXT,6.66,-2.49,4.88,-10.84,-17.16,26.38
+Natural Gas / LNG,VG,13.05,-3.44,3.2,-11.44,4.11,91.28
+Gold & Silver Miners,EQX,10.94,-3.82,-1.49,-13.41,12.37,-22.04
+Gold & Silver Miners,IAG,18.03,-2.78,-2.04,-10.32,16.58,9.37
+Gold & Silver Miners,FNV,237.92,-2.48,-0.08,-9.98,14.34,14.78
+Gold & Silver Miners,RGLD,227.89,-2.76,-3.44,-12.81,14.64,2.52
+Gold & Silver Miners,WPM,133.66,-2.9,-0.04,-13.83,20.8,13.73
+Gold & Silver Miners,AEM,180.41,-3.02,-1.56,-10.62,21.06,6.42
+Gold & Silver Miners,AU,90.03,-3.77,-4.18,-16.51,9.91,5.56
+Gold & Silver Miners,B,39.18,-3.78,-3.66,-11.16,6.38,-10.03
+Gold & Silver Miners,GFI,35.04,-3.12,-2.99,-25.75,2.94,-19.74
+Gold & Silver Miners,KGC,23.17,-2.69,-3.78,-23.15,-4.26,-17.72
+Gold & Silver Miners,NEM,113.54,-2.45,-1.56,-10.66,19.76,13.71
+Gold & Silver Miners,AG,16.66,-5.05,-5.85,-19.73,-2.94,-0.03
+Gold & Silver Miners,CDE,16.51,-3.84,-6.19,-20.09,3.06,-7.4
+Gold & Silver Miners,HL,16.39,-4.18,-3.79,-19.92,3.77,-14.62
+Gold & Silver Miners,PAAS,44.34,-3.44,-2.57,-13.06,0.5,-14.42
+Copper,FCX,71.88,-0.94,2.69,-6.19,18.75,41.52
+Copper,SCCO,200.49,-1.85,-1.06,-3.87,16.32,43.98
+Copper,TECK,65.4,-2.53,-0.59,-9.13,10.42,36.56
+Copper,ERO,36.79,-3.01,0.27,-2.95,46.81,30.05
+Copper,HBM,25.86,-4.03,-3.05,-10.81,19.86,30.3
+Rare Earths & Critical Minerals,PPTA,19.99,-3.06,-7.32,-19.26,0.96,-17.43
+Rare Earths & Critical Minerals,UAMY,3.86,-3.38,-7.55,-29.14,-41.77,-23.21
 Rare Earths & Critical Minerals,NB,3.45,-1.99,-4.17,-16.26,-24.51,-34.91
-Rare Earths & Critical Minerals,CRML,7.18,-2.45,-1.1,-1.91,-15.23,3.46
-Rare Earths & Critical Minerals,MP,46.22,-4.75,-2.25,-16.52,-10.61,-8.5
-Rare Earths & Critical Minerals,USAR,13.26,-3.53,-5.86,-24.94,-29.76,11.39
-Rare Earths & Critical Minerals,UUUU,10.29,-8.61,-6.71,-29.62,-23.72,-29.23
-Rare Earths & Critical Minerals,TMC,3.56,-3.92,-7.42,-19.75,-14.34,-42.38
-Steel & Aluminum,AA,42.4,-1.77,0.96,-18.04,-12.79,-19.79
-Steel & Aluminum,CENX,35.93,-3.36,-0.14,-25.07,-20.35,-8.3
-Steel & Aluminum,KALU,151.2,-1.67,4.41,-9.89,-6.82,33.61
-Steel & Aluminum,RS,397.35,-1.03,3.27,-0.24,5.85,38.99
-Steel & Aluminum,CLF,12.07,-1.47,9.63,-1.79,28.4,-9.11
-Steel & Aluminum,CMC,63.63,-1.97,2.46,-10.08,5.84,-7.26
-Steel & Aluminum,MT,62.46,-4.19,-6.41,-19.04,-0.59,38.0
-Steel & Aluminum,NUE,248.02,-1.21,6.11,-3.04,11.85,53.32
-Steel & Aluminum,STLD,234.88,-1.38,5.99,-2.03,6.02,39.69
-Agriculture,CTVA,14.44,3.85,-81.4,-83.18,-82.74,-78.31
-Agriculture,FMC,9.09,0.61,1.85,-28.45,-15.83,-33.14
-Agriculture,AGCO,108.71,-6.44,-4.84,-14.61,-3.73,5.01
-Agriculture,CNH,12.44,-6.29,-3.23,-8.57,20.96,36.17
-Agriculture,DE,658.58,-3.55,-1.93,-3.02,11.34,42.58
-Agriculture,LNN,112.96,-1.55,0.91,-8.27,1.93,-3.25
-Agriculture,CF,114.58,-1.24,-0.54,-14.7,1.01,50.32
-Agriculture,MOS,20.03,-4.32,-7.46,-23.84,-2.63,-14.56
-Agriculture,NTR,70.01,-1.67,-0.34,-12.56,9.26,16.18
-Agriculture,ADM,81.23,-1.19,2.33,-3.87,3.5,44.21
-Agriculture,BG,104.45,-2.68,-2.34,-15.69,-7.49,19.38
-Infrastructure & Materials,CRH,81.22,-2.85,-1.91,-10.36,-21.86,-34.19
-Infrastructure & Materials,EXP,166.13,-3.15,-2.86,-12.71,-19.09,-19.31
-Infrastructure & Materials,KNF,50.6,-4.94,0.36,-17.63,-35.39,-28.07
-Infrastructure & Materials,MLM,478.0,-2.25,-0.38,-6.64,-16.28,-22.9
-Infrastructure & Materials,USLM,110.56,-1.12,-2.25,-5.66,11.51,-7.52
-Infrastructure & Materials,VMC,243.05,-2.33,-0.65,-5.9,-15.66,-14.29
-Infrastructure & Materials,GVA,114.07,-5.66,-1.59,-4.1,-9.06,-0.81
-Infrastructure & Materials,STRL,522.61,-7.29,6.27,4.06,-26.1,70.66
-Infrastructure & Materials,ACM,57.68,-4.12,-2.15,-12.66,-15.24,-38.81
-Infrastructure & Materials,J,136.52,-1.94,0.93,-5.37,8.76,3.92
-Shipping & Logistics,CHRW,135.32,0.2,-8.55,-9.85,-29.5,-14.89
-Shipping & Logistics,GXO,45.83,-1.22,3.12,-1.87,-11.38,-12.93
-Shipping & Logistics,DAC,165.45,-0.3,7.22,8.08,30.86,79.61
-Shipping & Logistics,MATX,223.73,-0.47,1.86,0.2,8.79,82.18
-Shipping & Logistics,ZIM,30.0,2.76,2.34,-0.25,24.29,46.1
-Shipping & Logistics,SBLK,29.77,-0.28,1.41,-4.01,18.6,65.28
-Shipping & Logistics,FDX,289.43,0.14,1.52,-7.5,-6.52,25.81
-Shipping & Logistics,UPS,93.24,0.14,-0.21,-7.21,-14.46,-1.54
-Shipping & Logistics,FRO,53.63,1.63,8.85,22.79,56.57,182.45
-Shipping & Logistics,INSW,117.59,0.97,6.76,19.02,48.9,177.68
-Shipping & Logistics,STNG,85.69,-0.62,2.38,4.35,13.03,71.56
-Shipping & Logistics,TNK,103.35,2.08,6.48,11.94,49.68,97.92
-Shipping & Logistics,ODFL,176.25,-0.99,1.39,-5.75,-21.84,12.88
-Shipping & Logistics,XPO,181.41,-1.13,3.09,-4.55,-12.8,33.48
-Cannabis / Psychedelics,ACB,4.48,-2.4,14.87,15.76,65.93,6.16
-Cannabis / Psychedelics,CGC,0.88,-1.17,-1.72,-8.84,-9.59,-22.75
-Cannabis / Psychedelics,CRON,3.28,-0.15,-0.61,2.98,17.99,24.71
-Cannabis / Psychedelics,SNDL,1.25,1.96,-2.78,-12.91,-4.27,-24.45
-Cannabis / Psychedelics,TLRY,3.74,-0.93,-0.13,-12.91,-14.69,-58.53
+Rare Earths & Critical Minerals,CRML,7.06,-4.08,-2.75,-3.55,-16.65,1.73
+Rare Earths & Critical Minerals,MP,46.31,-4.58,-2.08,-16.37,-10.45,-8.34
+Rare Earths & Critical Minerals,USAR,13.23,-3.71,-6.04,-25.08,-29.89,11.18
+Rare Earths & Critical Minerals,UUUU,10.26,-8.88,-6.98,-29.82,-23.94,-29.44
+Rare Earths & Critical Minerals,TMC,3.52,-4.86,-8.33,-20.54,-15.18,-42.95
+Steel & Aluminum,AA,42.49,-1.58,1.17,-17.88,-12.79,-20.04
+Steel & Aluminum,CENX,36.03,-3.09,0.14,-24.86,-20.13,-8.04
+Steel & Aluminum,KALU,152.24,-0.99,5.12,-9.27,-6.58,32.54
+Steel & Aluminum,RS,396.12,-1.34,2.96,-0.55,5.21,37.13
+Steel & Aluminum,CLF,12.06,-1.59,9.49,-1.91,28.24,-9.22
+Steel & Aluminum,CMC,63.28,-2.51,1.9,-10.57,5.26,-8.58
+Steel & Aluminum,MT,62.33,-4.39,-6.61,-19.21,-1.0,36.78
+Steel & Aluminum,NUE,246.49,-1.83,5.45,-3.87,10.89,51.12
+Steel & Aluminum,STLD,234.09,-1.71,5.63,-2.59,5.42,38.15
+Agriculture,CTVA,14.46,3.95,-81.38,-83.17,-82.76,-78.43
+Agriculture,FMC,9.09,0.66,1.91,-29.04,-16.53,-34.46
+Agriculture,AGCO,109.18,-6.04,-4.43,-14.24,-3.61,4.65
+Agriculture,CNH,12.45,-6.14,-3.07,-8.42,21.16,35.09
+Agriculture,DE,656.9,-3.79,-2.18,-3.5,10.79,41.1
+Agriculture,LNN,113.49,-1.08,1.38,-7.84,2.08,-3.72
+Agriculture,CF,114.45,-1.35,-0.65,-14.8,0.38,47.98
+Agriculture,MOS,19.96,-4.68,-7.81,-24.76,-3.81,-17.14
+Agriculture,NTR,69.97,-1.73,-0.4,-13.27,8.36,13.37
+Agriculture,ADM,81.35,-1.05,2.48,-3.73,2.99,41.49
+Agriculture,BG,105.51,-1.69,-1.34,-14.83,-7.13,18.45
+Infrastructure & Materials,CRH,81.44,-2.58,-1.64,-10.12,-21.96,-34.74
+Infrastructure & Materials,EXP,167.51,-2.35,-2.05,-12.11,-18.53,-18.95
+Infrastructure & Materials,KNF,50.56,-5.01,0.29,-17.69,-35.43,-28.12
+Infrastructure & Materials,MLM,478.97,-2.05,-0.18,-6.45,-16.25,-23.08
+Infrastructure & Materials,USLM,110.27,-1.38,-2.51,-5.9,11.16,-7.91
+Infrastructure & Materials,VMC,244.14,-1.89,-0.2,-5.48,-15.44,-14.4
+Infrastructure & Materials,GVA,114.75,-5.1,-1.0,-3.64,-8.62,-0.52
+Infrastructure & Materials,STRL,534.13,-5.24,8.61,6.36,-24.47,74.42
+Infrastructure & Materials,ACM,58.27,-3.14,-1.15,-11.77,-14.37,-38.88
+Infrastructure & Materials,J,136.32,-2.09,0.78,-5.51,8.33,2.91
+Shipping & Logistics,CHRW,135.18,0.1,-8.64,-9.94,-29.87,-15.91
+Shipping & Logistics,GXO,45.99,-0.88,3.46,-1.54,-11.08,-12.63
+Shipping & Logistics,DAC,164.92,-0.61,6.88,7.74,29.52,75.11
+Shipping & Logistics,MATX,222.41,-1.05,1.26,-0.39,7.95,80.02
+Shipping & Logistics,ZIM,29.99,2.71,2.29,-0.3,24.23,41.26
+Shipping & Logistics,SBLK,29.69,-0.57,1.12,-4.29,14.72,54.47
+Shipping & Logistics,FDX,289.1,0.02,1.41,-7.97,-6.99,24.2
+Shipping & Logistics,UPS,92.29,-0.88,-1.23,-8.15,-16.66,-6.96
+Shipping & Logistics,FRO,53.05,0.53,7.67,13.79,45.1,143.13
+Shipping & Logistics,INSW,116.85,0.33,6.09,12.56,40.81,140.67
+Shipping & Logistics,STNG,84.48,-2.03,0.93,2.87,10.79,66.2
+Shipping & Logistics,TNK,102.09,0.84,5.18,10.57,47.38,91.11
+Shipping & Logistics,ODFL,175.61,-1.35,1.02,-6.1,-22.24,12.0
+Shipping & Logistics,XPO,180.34,-1.71,2.48,-5.11,-13.31,32.69
+Cannabis / Psychedelics,ACB,4.46,-2.83,14.36,15.25,65.19,5.69
+Cannabis / Psychedelics,CGC,0.88,-1.63,-2.18,-9.27,-10.01,-23.11
+Cannabis / Psychedelics,CRON,3.24,-1.37,-1.82,1.73,16.55,23.19
+Cannabis / Psychedelics,SNDL,1.25,1.63,-3.1,-13.19,-4.58,-24.7
+Cannabis / Psychedelics,TLRY,3.71,-1.72,-0.93,-13.6,-15.38,-58.86
 Cannabis / Psychedelics,ATAI,7.35,0.0,0.14,1.66,,1.8
-Cannabis / Psychedelics,CMPS,11.73,1.43,-5.75,-16.49,-13.79,69.93
+Cannabis / Psychedelics,CMPS,11.69,1.12,-6.03,-16.74,-14.04,69.42
+Memory & Storage,RMBS,111.48,-2.29,4.42,28.3,-2.32,21.32
+Memory & Storage,SIMO,285.78,0.29,2.06,5.06,-11.87,208.28
+Memory & Storage,MU,1088.0,4.06,2.15,8.77,9.72,281.21
+Memory & Storage,STX,807.57,0.24,-12.44,-10.7,-9.27,193.25
+Memory & Storage,WDC,405.42,-1.37,-10.79,-15.06,-29.86,135.34
+Memory & Storage,SNDK,1692.42,1.92,-2.73,-2.62,-8.92,612.96
+Memory & Storage,NTAP,235.77,3.2,12.23,24.66,37.29,120.16
+Semi Equipment & Chip Design,AMAT,520.65,-1.81,1.81,10.12,-11.55,102.6
+Semi Equipment & Chip Design,LRCX,329.51,-1.31,0.3,2.84,-6.7,92.49
+Semi Equipment & Chip Design,CDNS,356.12,-0.95,7.85,25.35,-7.73,13.93
+Semi Equipment & Chip Design,SNPS,502.67,-0.49,15.57,28.22,13.37,7.01
+Semi Equipment & Chip Design,ARM,294.37,-2.71,1.63,12.56,-10.22,169.3
+Semi Equipment & Chip Design,CAMT,152.2,-1.52,-1.96,3.53,4.71,43.11
+Semi Equipment & Chip Design,KLAC,196.83,-0.32,0.97,4.15,-14.24,61.99
+Semi Equipment & Chip Design,NVMI,377.77,-4.24,-1.93,0.18,-20.3,15.04
+Semi Equipment & Chip Design,ONTO,304.49,-2.94,-1.08,8.32,-3.95,92.89
+Semi Equipment & Chip Design,ASML,1804.96,-1.59,-0.37,2.27,0.04,68.71
+Semi Equipment & Chip Design,ENTG,166.32,-0.34,7.96,17.88,13.84,97.41
+Semi Equipment & Chip Design,AMKR,52.27,-2.1,-0.21,3.06,-27.56,32.4
+Semi Equipment & Chip Design,ASX,45.76,-2.18,2.92,15.0,5.8,184.22
+Semi Equipment & Chip Design,FORM,139.8,-1.06,-6.37,27.25,17.05,150.63
+Semi Equipment & Chip Design,TER,411.78,-4.31,2.71,10.68,13.52,112.74
+"Analog, Edge & Power Semis",ADI,410.08,-2.49,3.37,12.91,4.18,51.21
+"Analog, Edge & Power Semis",TXN,288.98,-2.78,3.17,11.61,-6.34,66.57
+"Analog, Edge & Power Semis",MCHP,78.02,-3.99,0.32,6.32,-11.6,22.44
+"Analog, Edge & Power Semis",NXPI,235.22,-3.75,-0.97,5.07,-19.04,8.37
+"Analog, Edge & Power Semis",ON,82.51,-4.4,7.34,16.08,-15.69,52.37
+"Analog, Edge & Power Semis",QCOM,177.12,-2.16,-3.76,1.74,-7.32,3.55
+"Analog, Edge & Power Semis",LSCC,130.99,-2.59,4.27,11.49,-6.12,78.02
+"Analog, Edge & Power Semis",SITM,665.16,-6.46,2.01,11.05,2.62,88.33
+"Analog, Edge & Power Semis",MPWR,1425.98,-3.24,5.85,17.03,3.77,57.33
+"Analog, Edge & Power Semis",NVTS,11.3,-5.6,-2.67,-5.83,-20.31,58.26
+AI Networking & Optics,ALAB,382.25,-1.94,7.38,32.34,-8.43,129.77
+AI Networking & Optics,CRDO,220.01,-0.37,12.95,31.15,-17.18,52.9
+AI Networking & Optics,GLW,163.21,-3.41,6.15,-1.65,-15.16,86.4
+AI Networking & Optics,CIEN,446.46,0.63,26.9,30.82,-3.43,90.9
+AI Networking & Optics,AAOI,122.54,-5.85,23.45,9.85,0.27,251.52
+AI Networking & Optics,COHR,334.57,-1.12,16.25,10.83,2.24,81.27
+AI Networking & Optics,FN,497.84,1.77,17.34,19.58,3.12,9.35
+AI Networking & Optics,LITE,1111.07,-1.97,14.39,13.54,41.4,201.44
+AI Networking & Optics,ANET,215.77,0.19,5.98,10.67,16.83,64.67
+AI Networking & Optics,CSCO,117.39,-0.47,9.07,7.53,-0.78,52.4
+AI Software & Agents,AI,11.23,-0.04,2.23,6.9,24.69,-16.65
+AI Software & Agents,PLTR,194.12,1.07,3.78,13.99,50.43,9.21
+AI Software & Agents,ADBE,232.77,-2.25,-2.99,-9.52,4.55,-33.49
+AI Software & Agents,MDB,363.03,0.64,4.14,1.97,0.04,-13.5
+AI Software & Agents,SNOW,332.77,-0.95,-2.0,-0.81,24.4,51.7
+AI Software & Agents,CRM,224.54,-0.2,-2.19,-9.86,38.18,-15.24
+AI Software & Agents,NOW,137.85,-0.09,2.87,2.71,26.65,-10.01
+AI Software & Agents,PATH,13.07,-0.19,1.83,-6.67,10.81,-20.23
+AI Software & Agents,INOD,63.42,-4.26,-3.57,13.0,-8.33,24.47
+AI Software & Agents,SOUN,5.63,-1.57,-6.48,-14.31,-15.72,-43.53
+Power Producers & Utilities,CEG,299.59,-0.27,17.94,0.18,19.48,-15.2
+Power Producers & Utilities,NRG,108.64,4.86,13.58,-9.19,-22.67,-31.78
+Power Producers & Utilities,TLN,378.32,1.4,20.99,16.13,-1.59,0.93
+Power Producers & Utilities,VST,166.73,3.88,20.52,9.9,5.54,3.35
+Power Producers & Utilities,AEP,122.08,0.34,2.9,-2.66,-8.79,5.87
+Power Producers & Utilities,D,61.53,-0.77,1.66,-7.09,-11.41,5.01
+Power Producers & Utilities,DUK,115.48,-0.16,1.29,-4.75,-7.81,-1.48
+Power Producers & Utilities,ETR,102.78,-0.46,3.55,-5.3,-9.79,11.2
+Power Producers & Utilities,NEE,77.05,-1.07,1.73,-8.09,-11.54,-4.02
+Power Producers & Utilities,SO,85.44,0.0,3.08,-3.99,-10.22,-2.02
+Banks,IBKR,87.74,-3.14,2.72,-3.55,-7.91,36.43
+Banks,SCHW,95.56,-1.28,-2.23,-10.58,-6.23,-4.35
+Banks,GS,887.04,-1.13,-1.48,-14.42,-16.0,0.91
+Banks,MS,189.68,-0.7,0.85,-12.28,-14.61,6.84
+Banks,BAC,53.53,-1.04,-1.65,-14.2,-9.65,-2.67
+Banks,C,127.29,-0.96,-1.69,-6.91,-8.8,9.08
+Banks,JPM,329.5,-0.54,-0.4,-6.79,-1.78,2.26
+Banks,WFC,80.26,-1.53,0.26,-8.75,-7.65,-13.88
+Banks,FITB,50.12,-1.74,-0.92,-8.06,-11.36,7.06
+Banks,HBAN,15.17,-1.04,-0.59,-9.49,-14.58,-12.56
+Banks,MTB,216.66,-0.95,-0.43,-9.13,-8.94,7.53
+Banks,PNC,217.72,-1.11,-2.04,-10.37,-13.23,4.31
+Banks,TFC,45.58,-1.46,-1.57,-9.84,-11.28,-7.39
+Banks,USB,56.15,-1.99,-2.79,-10.15,-9.29,5.23
+Exchanges & Financial Data,CBOE,281.73,1.27,2.34,-3.95,5.18,12.24
+Exchanges & Financial Data,CME,270.27,0.03,3.16,-2.86,12.75,-1.03
+Exchanges & Financial Data,ICE,152.55,-0.61,0.34,-3.3,12.91,-5.81
+Exchanges & Financial Data,NDAQ,91.93,-0.37,-0.09,-3.27,5.04,-5.35
+Exchanges & Financial Data,FDS,272.77,0.28,1.04,-5.62,12.76,-6.0
+Exchanges & Financial Data,MCO,449.7,-0.58,-0.98,-6.56,-7.66,-11.97
+Exchanges & Financial Data,MSCI,555.36,0.08,3.1,0.72,-7.95,-3.2
+Exchanges & Financial Data,SPGI,395.32,-0.21,0.21,-7.92,-8.69,-20.04
+Exchanges & Financial Data,TRI,99.28,1.21,2.0,0.48,11.79,-24.73
+Alternative Asset Managers,BAM,44.49,-1.58,-0.19,-8.95,-3.63,-15.07
+Alternative Asset Managers,BX,111.81,-1.37,-0.25,-16.54,-8.47,-27.46
+Alternative Asset Managers,CG,37.8,-2.78,-4.69,-17.74,-14.44,-36.05
+Alternative Asset Managers,KKR,89.66,-1.11,-1.8,-15.2,-6.87,-29.67
+Alternative Asset Managers,TPG,44.51,-1.02,0.86,-12.57,4.41,-30.28
+Alternative Asset Managers,APO,115.52,-0.37,-0.47,-12.36,-3.6,-20.2
+Alternative Asset Managers,ARES,115.69,-1.74,-0.41,-16.54,-4.91,-28.42
+Alternative Asset Managers,OWL,9.11,0.5,0.28,-18.76,-1.99,-38.99
+Large Pharma & Biotech,AMGN,413.08,2.6,-2.0,5.06,13.6,26.2
+Large Pharma & Biotech,GILD,146.85,1.82,-1.48,0.14,8.91,19.64
+Large Pharma & Biotech,REGN,742.12,0.46,-2.13,-8.42,11.1,-3.85
+Large Pharma & Biotech,VRTX,505.64,0.66,-3.28,-4.4,1.84,11.53
+Large Pharma & Biotech,ABBV,271.32,1.74,3.72,9.06,8.57,18.74
+Large Pharma & Biotech,AZN,160.13,0.96,-0.83,0.06,-10.29,-12.91
+Large Pharma & Biotech,BMY,59.68,0.15,-4.36,-7.74,3.0,10.64
+Large Pharma & Biotech,JNJ,258.33,1.39,-2.42,-4.01,-0.3,24.83
+Large Pharma & Biotech,LLY,1188.29,2.66,2.7,5.73,-2.36,10.57
+Large Pharma & Biotech,MRK,142.76,0.58,-1.75,-3.84,14.14,35.63
+Large Pharma & Biotech,PFE,27.99,1.78,-1.86,0.72,15.42,12.41
+Managed Care & Health Services,HCA,439.2,1.62,2.92,9.25,7.38,-5.92
+Managed Care & Health Services,THC,259.91,0.56,1.7,0.33,25.7,30.79
+Managed Care & Health Services,UHS,174.57,-1.41,0.18,1.56,12.48,-19.93
+Managed Care & Health Services,CI,278.47,1.49,2.44,0.96,-4.57,1.18
+Managed Care & Health Services,CNC,65.0,0.61,4.64,0.65,-3.84,57.96
+Managed Care & Health Services,CVS,87.93,1.74,2.62,-8.47,-14.47,10.8
+Managed Care & Health Services,ELV,404.32,1.06,3.99,0.59,-3.82,15.34
+Managed Care & Health Services,HUM,396.21,-1.99,3.84,-1.71,-0.39,54.69
+Managed Care & Health Services,MOH,194.84,-0.17,3.04,-0.74,-16.05,12.28
+Managed Care & Health Services,UNH,375.78,-0.14,2.37,-6.25,-12.95,13.83
+Commercial Aerospace,HEI,295.65,-2.51,-2.48,-6.47,-16.04,-8.63
+Commercial Aerospace,HWM,222.75,-3.82,-1.52,-3.79,-18.64,8.65
+Commercial Aerospace,TDG,1096.27,-0.64,1.26,-4.27,-15.39,-17.56
+Commercial Aerospace,WWD,324.25,-2.5,-1.32,-4.43,-19.64,7.25
+Commercial Aerospace,GE,303.61,-1.87,-2.78,-9.35,-15.44,-1.43
+Commercial Aerospace,RTX,180.27,-1.65,-2.9,-9.33,-7.65,-1.71
+Commercial Aerospace,HXL,83.91,-2.44,-0.01,-8.07,-15.88,13.55
+Commercial Aerospace,BA,188.3,-0.8,1.21,-10.64,-15.6,-13.27
+Homebuilders & Housing,BLDR,53.57,-4.71,-6.03,-14.4,-28.13,-47.93
+Homebuilders & Housing,HD,285.7,-0.34,0.43,-8.92,-15.65,-16.97
+Homebuilders & Housing,LOW,181.52,-1.17,-1.5,-9.6,-14.78,-24.73
+Homebuilders & Housing,DHI,133.24,-2.57,-2.5,-3.79,-10.91,-7.49
+Homebuilders & Housing,KBH,43.98,-3.13,-5.36,-12.39,-22.45,-22.04
+Homebuilders & Housing,LEN,76.13,-1.65,-6.69,-5.28,-9.75,-25.94
+Homebuilders & Housing,NVR,5931.15,-1.91,-3.63,-3.04,-8.35,-18.67
+Homebuilders & Housing,PHM,112.33,-3.25,-3.21,-6.45,-9.21,-4.2
+Homebuilders & Housing,TOL,133.81,-3.04,-0.7,-1.9,-9.75,-1.04
+Homebuilders & Housing,RKT,11.44,-1.25,-0.56,-17.13,-21.39,-40.88
+Travel & Leisure,DAL,82.96,-0.84,-0.6,5.07,-6.79,19.54
+Travel & Leisure,UAL,110.17,-1.52,-0.7,1.78,-14.63,-1.48
+Travel & Leisure,CCL,26.15,-1.62,6.56,12.72,-2.13,-14.37
+Travel & Leisure,NCLH,15.04,-3.03,2.59,-2.27,-23.89,-32.62
+Travel & Leisure,RCL,282.36,-2.22,6.21,6.75,-1.99,1.23
+Travel & Leisure,HLT,320.5,-0.65,0.75,5.26,-5.08,11.58
+Travel & Leisure,MAR,356.5,-1.32,0.23,8.43,-4.29,14.91
+Travel & Leisure,ABNB,160.63,0.15,-0.01,-7.97,9.35,18.35
+Travel & Leisure,BKNG,155.87,-1.12,-4.32,-13.55,-11.2,-27.24
+Travel & Leisure,EXPE,258.86,-0.47,-1.71,-5.71,-3.33,-8.63
+Consumer Retail,COST,942.25,0.7,3.51,3.52,3.21,9.27
+Consumer Retail,TGT,150.92,-2.21,-3.68,-7.25,14.1,54.39
+Consumer Retail,WMT,108.16,0.9,4.08,1.99,-3.61,-2.92
+Consumer Retail,DECK,80.37,-1.58,2.85,-2.7,-22.91,-22.48
+Consumer Retail,LULU,91.88,-1.85,-4.48,-10.96,-21.14,-55.79
+Consumer Retail,AMZN,259.92,1.42,4.32,1.15,5.21,12.61
+Consumer Retail,CPNG,14.81,2.74,6.81,0.03,-22.68,-37.2
+Consumer Retail,MELI,1872.78,0.8,8.35,-2.78,3.59,-7.02
+Consumer Retail,SHOP,166.03,0.97,11.96,23.81,34.8,3.14
+Consumer Retail,ROST,225.53,0.59,-3.37,-1.65,2.23,25.2
+Consumer Retail,TJX,138.8,1.29,4.91,7.66,-8.02,-9.64
+Consumer Staples,KO,85.8,-0.43,-0.32,-2.89,3.84,22.73
+Consumer Staples,PEP,123.73,-1.58,-2.36,-10.63,-10.25,-13.79
+Consumer Staples,GIS,31.78,-1.24,-1.18,-15.68,-11.35,-31.66
+Consumer Staples,MDLZ,59.38,-0.4,2.7,-3.65,1.85,10.31
+Consumer Staples,CL,87.21,-0.05,2.22,-1.36,-4.18,10.36
+Consumer Staples,KMB,96.48,-0.3,-0.98,-6.27,-12.24,-4.37
+Consumer Staples,PG,147.8,-0.41,1.73,1.52,0.65,3.13
+Consumer Staples,MO,69.39,1.22,3.04,1.78,-3.08,20.33
+Consumer Staples,PM,192.69,1.2,0.98,4.31,6.36,20.13
+Digital Media & Advertising,APP,281.29,0.9,-3.15,-9.85,-45.95,-58.25
+Digital Media & Advertising,TTD,12.09,1.43,-0.66,-13.77,-38.78,-68.15
+Digital Media & Advertising,GOOGL,350.5,0.81,1.87,3.59,-2.34,11.98
+Digital Media & Advertising,META,721.31,-2.38,-0.53,17.58,14.23,9.27
+Digital Media & Advertising,PINS,20.31,1.37,7.49,0.82,-10.55,-21.57
+Digital Media & Advertising,RDDT,152.8,2.58,7.27,2.29,-23.72,-33.53
+Digital Media & Advertising,SNAP,5.81,0.52,7.59,7.0,23.62,-28.0
+Digital Media & Advertising,DIS,104.78,0.72,-0.12,-0.27,8.95,-7.91
+Digital Media & Advertising,NFLX,69.7,1.47,0.17,-9.21,-7.65,-25.66
+Digital Media & Advertising,ROKU,152.73,0.44,0.29,-1.68,8.89,40.77
+Digital Media & Advertising,SPOT,512.97,5.09,5.25,-2.97,5.57,-11.67
