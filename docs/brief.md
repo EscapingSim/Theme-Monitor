@@ -11,8 +11,8 @@ Indexes are holding up but most stocks are not. Stick to the leaders, size down,
 | DIA | -0.7% | +0.5% | -3.2% | -2.5% | +6.3% |
 
 - SPY above 50D, above 200D. QQQ above 50D, above 200D.
-- Breadth: 26.1% of 1,722 stocks above their 50D (5 days ago: 21.3%); 42.9% above 200D.
-- New 52-week highs / lows: 15 / 81 today; 10-day average 24.2 / 86.8.
+- Breadth: 26.1% of 1,723 stocks above their 50D (5 days ago: 21.3%); 42.8% above 200D.
+- New 52-week closing highs / lows: 16 / 98 today; 10-day average 24.7 / 83.6.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
