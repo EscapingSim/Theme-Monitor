@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Brief · Theme Monitor</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F3F5F8;--panel:#FFFFFF;--ink:#16202F;--muted:#677286;--line:#DDE2EA;--up:#0B7A55;--down:#C0392B;--sel:#2C5BD4;--selbg:#E8EEFC;--warn:#A05A00;--warnbg:#FFF1DB;--upbg:11,122,85;--downbg:192,57,43;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0F1520;--panel:#161E2B;--ink:#E6EBF2;--muted:#8D98AA;--line:#273244;--up:#3FC99A;--down:#F06B5B;--sel:#7EA2FF;--selbg:#1E2A44;--warn:#F2B35E;--warnbg:#3A2A12;--upbg:63,201,154;--downbg:240,107,91;color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font:14px/1.45 Figtree,system-ui,-apple-system,"Segoe UI",sans-serif;font-variant-numeric:tabular-nums;padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+.wrap{max-width:1400px;margin:0 auto;padding:20px 16px 48px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 24px;margin-bottom:6px}
+h1{font-size:26px;font-weight:700;letter-spacing:-.02em;margin:0}
+.nav{display:flex;gap:4px}.nav a{color:var(--muted);text-decoration:none;padding:4px 10px;border-radius:7px;font-weight:500}
+.nav a[aria-current]{background:var(--selbg);color:var(--sel)}
+.asof{color:var(--muted)}
+.lead{color:var(--muted);margin:0 0 16px}
+.lead b{color:var(--ink);font-weight:600}
+h2{font-size:17px;font-weight:600;margin:26px 0 4px}
+.hint{color:var(--muted);margin:0 0 10px;font-size:13px;max-width:80ch}
+.controls{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;margin:14px 0 12px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--panel)}
+.seg button{all:unset;cursor:pointer;padding:6px 12px;color:var(--muted);font-weight:500}
+.seg button[aria-pressed=true]{background:var(--selbg);color:var(--sel)}
+.big button{padding:8px 16px;font-size:15px}
+label.chk{display:inline-flex;gap:6px;align-items:center;color:var(--muted);cursor:pointer}
+button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--sel);outline-offset:-2px}
+input[type=search]{font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 9px}
+.scroll{overflow-x:auto;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;min-width:900px}
+th,td{padding:7px 10px;text-align:right;white-space:nowrap;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted);font-size:12.5px;cursor:pointer;user-select:none;background:var(--panel)}
+th.l,td.l{text-align:left}
+tbody tr:last-child td{border-bottom:0}
+.up{color:var(--up)}.down{color:var(--down)}.muted{color:var(--muted)}
+.tag{font-size:11.5px;color:var(--muted)}
+.star{color:var(--sel);font-weight:700}
+.badge{display:inline-block;font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:10px;background:var(--selbg);color:var(--sel)}
+.badge.w{background:var(--warnbg);color:var(--warn)}
+.tt{display:inline-flex;gap:2px;vertical-align:middle;margin-left:6px}
+.tt i{width:6px;height:12px;border-radius:2px;background:var(--line)}
+.tt i.on{background:var(--up)}
+.rs{font-weight:700}
+.empty{padding:18px;color:var(--muted)}
+.foot{color:var(--muted);font-size:12.5px;margin-top:24px;max-width:80ch}
+.demo{background:var(--warnbg);color:var(--warn);padding:8px 12px;border-radius:8px;margin-bottom:12px}
+
+
+.market{display:grid;grid-template-columns:minmax(220px,1fr) minmax(340px,1.35fr) minmax(220px,1fr) minmax(220px,1fr);gap:12px;margin:0 0 16px}
+.mcard{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.mcard h3{font-size:12.5px;font-weight:600;color:var(--muted);margin:0 0 8px;text-transform:uppercase;letter-spacing:.04em}
+.mcard.rg{border-left:4px solid var(--rg)}
+.mcard.up{--rg:var(--up)}.mcard.down{--rg:var(--down)}.mcard.mid{--rg:#C98A00}
+.mcard .lab{font-weight:700;font-size:20px;color:var(--rg);margin-bottom:4px}
+.mcard .note{color:var(--muted);font-size:13px;margin-bottom:8px}
+.mcard .big{font-size:20px;font-weight:700}
+.mcard .sub{color:var(--muted);font-size:12.5px}
+.mcard table{min-width:0;width:100%}
+.mcard td,.mcard th{padding:4px 5px;border:0;font-size:13px;cursor:default;position:static}
+.mcard svg{display:block;margin-top:6px;width:100%}
+@media (max-width:1100px){.market{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){.market{grid-template-columns:1fr}}
+</style><style>
+.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:900px){.two{grid-template-columns:1fr}}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:5px 9px}
+.chip b{margin-right:4px}
+.mv{font-weight:600}
+td.sig{white-space:normal;min-width:260px}
+.plain{font-size:12.5px;color:var(--muted)}
+.plain a{color:var(--sel)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Morning brief</h1>
+    <nav class="nav"><a href="index.html">Themes</a><a href="setups.html">Setups</a><a aria-current="page" href="brief.html">Brief</a></nav>
+    <div class="asof" id="asof"></div>
+  </header>
+  <p class="plain">Reviewing with Claude? Share the <a href="brief.md">plain-text version</a>.</p>
+  <div id="regime"></div>
+
+  <div class="two">
+    <div>
+      <h2>Top themes</h2>
+      <div class="scroll"><table id="themes" style="min-width:0"></table></div>
+    </div>
+    <div>
+      <h2>Biggest rank moves (1W)</h2>
+      <h3 class="hint" style="margin-top:8px">Gaining</h3><div class="chips" id="gain"></div>
+      <h3 class="hint" style="margin-top:14px">Losing</h3><div class="chips" id="lose"></div>
+    </div>
+  </div>
+
+  <h2>Focus candidates</h2>
+  <p class="hint">Stocks passing 2 or more screens, most signals first. Levels are reference points for review, not trade instructions.</p>
+  <div class="scroll"><table id="cand"></table></div>
+
+  <h2>New on the screens today</h2>
+  <div id="new"></div>
+
+  <h2>Warnings on theme stocks</h2>
+  <div id="warn"></div>
+</div>
+<script>
+const D = /*__DATA__*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = (v,d=1) => v==null?"–":(v>0?"+":"")+v.toFixed(d)+"%";
+const badge = (x,w) => `<span class="badge${w?" w":""}">${esc(x)}</span>`;
+const thm = r => esc(r.themes.length?r.themes[0]:r.sector)+(r.lead?' <span class="star">★</span>':"");
+
+$("#asof").textContent = `Close of ${new Date(D.as_of+"T12:00:00").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric",year:"numeric"})}`;
+
+// themes
+const T = D.themes.slice(0,8);
+$("#themes").innerHTML = `<thead><tr><th class="l">#</th><th class="l">Theme</th><th>Score</th><th>1W ago</th><th>Change</th></tr></thead><tbody>`+
+  T.map(t=>{ const c = t.prev? t.prev-t.rank : null;
+    return `<tr><td class="l muted">${t.rank}</td><td class="l"><b>${esc(t.theme)}</b></td><td class="${t.score>=0?"up":"down"}">${fmt(t.score)}</td><td class="muted">${t.prev??"–"}</td>
+    <td class="mv ${c>0?"up":c<0?"down":"muted"}">${c==null?"–":c>0?"▲ "+c:c<0?"▼ "+(-c):"–"}</td></tr>`; }).join("")+"</tbody>";
+const mv = D.themes.filter(t=>t.prev).map(t=>({...t,c:t.prev-t.rank}));
+const chip = t => `<span class="chip"><b>${esc(t.theme)}</b><span class="mv ${t.c>0?"up":"down"}">${t.c>0?"▲ "+t.c:"▼ "+(-t.c)}</span> <span class="muted">now #${t.rank}</span></span>`;
+$("#gain").innerHTML = mv.filter(t=>t.c>0).sort((a,b)=>b.c-a.c).slice(0,5).map(chip).join("") || '<span class="muted">None</span>';
+$("#lose").innerHTML = mv.filter(t=>t.c<0).sort((a,b)=>a.c-b.c).slice(0,5).map(chip).join("") || '<span class="muted">None</span>';
+
+// candidates
+$("#cand").innerHTML = D.cand.length ? `<thead><tr><th class="l">Ticker</th><th class="l">Theme</th><th>RS</th><th class="l">Screens</th><th>Close</th><th>Pivot</th><th>10 EMA</th><th>50D</th><th>ADR</th><th title="Close minus one average daily range">1-ADR stop</th></tr></thead><tbody>`+
+  D.cand.map(r=>`<tr><td class="l"><b>${r.ticker}</b><div class="tag">${esc(r.name)}</div></td><td class="l">${thm(r)}</td><td class="rs ${r.rs>=90?"up":""}">${r.rs}</td>
+   <td class="l sig">${r.signals.map(x=>badge(x)).join(" ")}${r.warnings.map(x=>" "+badge(x,1)).join("")}</td>
+   <td>${r.close.toFixed(2)}</td><td>${r.pivot.toFixed(2)}</td><td>${r.ema10.toFixed(2)}</td><td>${r.sma50.toFixed(2)}</td><td>${r.adr.toFixed(1)}%</td><td>${(r.close*(1-r.adr/100)).toFixed(2)}</td></tr>`).join("")+"</tbody>"
+  : '<tbody><tr><td class="empty">No stocks pass 2+ screens today.</td></tr></tbody>';
+
+const list = (rows, warn) => `<div class="chips">`+rows.map(r=>`<span class="chip"><b>${r.ticker}</b>${(warn?r.warnings:r.signals).map(x=>badge(x,warn)).join(" ")}</span>`).join("")+`</div>`;
+$("#new").innerHTML = D.new==null ? '<p class="muted">First run. The comparison starts with tomorrow\'s brief.</p>' : D.new.length ? list(D.new) : '<p class="muted">None.</p>';
+$("#warn").innerHTML = D.warn.length ? list(D.warn,true) : '<p class="muted">None.</p>';
+
+(function(){
+  const R=D.regime; if(!R) return;
+  const pf=v=>v==null?"–":(v>0?"+":"")+v.toFixed(1)+"%";
+  const tint=(v,cap)=>{ if(v==null) return ""; const a=Math.min(Math.abs(v)/cap,1)*0.38; return `background:rgba(var(${v>=0?"--upbg":"--downbg"}),${a.toFixed(3)})`; };
+  const CAPS={r1d:3,r1w:6,r1m:12,r3m:25,ytd:40};
+  const ma=(n,o)=>`<div class="sub">${n} <b class="${o.a50?"up":"down"}">${o.a50?"above":"below"} 50D</b>, <b class="${o.a200?"up":"down"}">${o.a200?"above":"below"} 200D</b></div>`;
+  const W=300,H=56;
+  // breadth line
+  const s=R.b50_series, bx=i=>(i/(s.length-1)*W).toFixed(1), by=v=>(H-3-v/100*(H-6)).toFixed(1);
+  const bline=`<svg viewBox="0 0 ${W} ${H}" height="${H}" preserveAspectRatio="none" aria-hidden="true"><line x1="0" x2="${W}" y1="${by(50)}" y2="${by(50)}" stroke="var(--line)" stroke-dasharray="4 3"/><polyline points="${s.map((v,i)=>bx(i)+","+by(v)).join(" ")}" fill="none" stroke="var(--sel)" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>`;
+  // NH/NL mirrored bars
+  const n=R.nh_series.length, mx=Math.max(1,...R.nh_series,...R.nl_series), bw=W/n, mid=H/2;
+  const bars=R.nh_series.map((v,i)=>`<rect x="${(i*bw+0.5).toFixed(1)}" y="${(mid-v/mx*(mid-2)).toFixed(1)}" width="${(bw-1).toFixed(1)}" height="${(v/mx*(mid-2)).toFixed(1)}" fill="var(--up)"/>`).join("")
+          + R.nl_series.map((v,i)=>`<rect x="${(i*bw+0.5).toFixed(1)}" y="${mid}" width="${(bw-1).toFixed(1)}" height="${(v/mx*(mid-2)).toFixed(1)}" fill="var(--down)"/>`).join("");
+  const nhnl=`<svg viewBox="0 0 ${W} ${H}" height="${H}" preserveAspectRatio="none" aria-hidden="true">${bars}<line x1="0" x2="${W}" y1="${mid}" y2="${mid}" stroke="var(--line)"/></svg>`;
+  document.getElementById("regime").innerHTML=`<div class="market">
+    <div class="mcard rg ${R.tone}"><h3>Market regime</h3><div class="lab">${R.label}</div><div class="note">${R.note}</div>${ma("SPY",R.spy)}${ma("QQQ",R.qqq)}</div>
+    <div class="mcard"><h3>Index performance</h3><table><thead><tr><th class="l"></th>${["1D","1W","1M","3M","YTD"].map(x=>`<th>${x}</th>`).join("")}</tr></thead><tbody>
+      ${Object.entries(R.idx).map(([k,x])=>`<tr><td class="l"><b>${k}</b></td>${["r1d","r1w","r1m","r3m","ytd"].map(c=>`<td style="${tint(x[c],CAPS[c])}">${pf(x[c])}</td>`).join("")}</tr>`).join("")}</tbody></table></div>
+    <div class="mcard" title="Share of ${R.n.toLocaleString()} stocks above their 50-day average over the last 60 sessions. Dashed line = 50%."><h3>Breadth: % above 50D</h3><span class="big">${R.b50}%</span> <span class="sub">5 days ago ${R.b50_5d}%. Above 200D: ${R.b200}%</span>${bline}</div>
+    <div class="mcard" title="Daily count of new 52-week closing highs (green, up) and closing lows (red, down) across ${R.n.toLocaleString()} stocks, last 60 sessions."><h3>New 52W closing highs / lows</h3><span class="big"><span class="up">${R.nh}</span> / <span class="down">${R.nl}</span></span> <span class="sub">today. 10-day avg ${R.nh10} / ${R.nl10}</span>${nhnl}</div>
+  </div>`;
+})();
+</script>
+</body>
+</html>
