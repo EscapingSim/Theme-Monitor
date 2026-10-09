@@ -597,6 +597,7 @@ CRS,Carpenter Technology,Industrials
 CRUS,Cirrus Logic,Information Technology
 CSL,Carlisle Companies,Industrials
 CTRE,CareTrust REIT,Real Estate
+CTVA,Corteva,Materials
 CUBE,CubeSmart,Real Estate
 CUZ,Cousins Properties,Real Estate
 CVLT,CommVault Systems,Information Technology
@@ -651,6 +652,7 @@ FN,Fabrinet,Information Technology
 FNB,FNB Corporation,Financials
 FND,Floor & Decor,Consumer Discretionary
 FNF,Fidelity National Financial,Financials
+FORM,"FormFactor, Inc.",Information Technology
 FOUR,Shift4,Financials
 FR,First Industrial Realty Trust,Real Estate
 FTI,TechnipFMC,Energy
@@ -761,7 +763,6 @@ OHI,Omega Healthcare Investors,Real Estate
 OKTA,"Okta, Inc.",Information Technology
 OLED,Universal Display,Information Technology
 OLLI,Ollie's Bargain Outlet,Consumer Discretionary
-OLN,Olin Corporation,Materials
 ONB,Old National Bank,Financials
 ONTO,Onto Innovation,Information Technology
 OPCH,Option Care Health,Health Care
@@ -1109,7 +1110,6 @@ FIVN,"Five9, Inc.",Information Technology
 FIZZ,National Beverage Corp.,Consumer Staples
 FLO,Flowers Foods,Consumer Staples
 FMC,FMC Corporation,Materials
-FORM,"FormFactor, Inc.",Information Technology
 FOXF,Fox Factory,Consumer Discretionary
 FRPT,Freshpet,Consumer Staples
 FSS,Federal Signal Corporation,Industrials
