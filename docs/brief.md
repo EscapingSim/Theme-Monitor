@@ -12,7 +12,7 @@ Mixed tape. Be selective, size down, take profits faster.
 
 - SPY below 50D, above 200D. QQQ below 50D, above 200D.
 - Breadth: 47.7% of 1,725 stocks above their 50D (5 days ago: 34.2%); 48.7% above 200D.
-- New 52-week closing highs / lows: 96 / 64 today; 10-day average 49.5 / 64.5.
+- New 52-week closing highs / lows: 96 / 64 today; 10-day average 49.5 / 64.1.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
@@ -49,7 +49,7 @@ Biggest rank drops (1W): Copper (-28), Memory & Storage (-22), Semi Equipment & 
 | DAVE | Fintech / Digital Payments | 92 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 382.39 | 394.99 | 366.42 | 354.38 | 5.3% | 362.12 |
 
 ## New on the screens today
-IOSP (Minervini TT 8/8; Zanger near pivot), EHC (Minervini TT 8/8; Kell wedge pop), NDAQ (Zanger breakout; Kell base n' break), CTSH (Zanger breakout), PRGS (Zanger near pivot), QTWO (Zanger breakout), RHI (Kell wedge pop), APPF (Kell EMA crossback), ULTA (Kell base n' break), SBH (Kell EMA crossback), TRI (Zanger breakout), SONY (Kell base n' break), CATY (Minervini TT 8/8), DG (Kell EMA crossback), INCY (Kell wedge pop), NIC (Minervini TT 8/8), RLI (Zanger breakout), GFF (Minervini TT 8/8), MHK (Kell wedge pop), CVSA (VCP-like), BMI (Kell wedge pop), SHC (Kell wedge pop)
+IOSP (Minervini TT 8/8; Zanger near pivot), EXPO (Zanger breakout; Kell base n' break), EHC (Minervini TT 8/8; Kell wedge pop), NDAQ (Zanger breakout; Kell base n' break), CTSH (Zanger breakout), PRGS (Zanger near pivot), QTWO (Zanger breakout), RHI (Kell wedge pop), APPF (Kell EMA crossback), ULTA (Kell base n' break), SBH (Kell EMA crossback), TRI (Zanger breakout), SONY (Kell base n' break), CATY (Minervini TT 8/8), DG (Kell EMA crossback), INCY (Kell wedge pop), NIC (Minervini TT 8/8), RLI (Zanger breakout), GFF (Minervini TT 8/8), MHK (Kell wedge pop), CVSA (VCP-like), BMI (Kell wedge pop), SHC (Kell wedge pop)
 
 ## Warnings on theme stocks
 MRNA (Wedge drop), OKTA (Wedge drop), NTAP (Wedge drop), DDOG (Wedge drop), MATX (Wedge drop), FFIV (Wedge drop), MSFT (Wedge drop), TXG (Closed below 50D), MRVL (Closed below 50D), NTSK (Climax watch), TWLO (Closed below 50D), ASX (Closed below 50D), AMD (Closed below 50D), PARR (Closed below 50D; Wedge drop), SDGR (Closed below 50D), TNK (Closed below 50D), S (Closed below 50D), PTEN (Wedge drop), GSAT (Closed below 50D; Wedge drop), STNG (Closed below 50D), TXN (Wedge drop), ADI (Wedge drop), WTS (Closed below 50D), FANG (Closed below 50D)
