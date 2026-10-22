@@ -1,58 +1,58 @@
-# Morning brief: close of 2026-10-21
+# Morning brief: close of 2026-10-22
 
 ## Market regime: Under pressure
 Mixed tape. Be selective, size down, take profits faster.
 
 | Index | 1D | 1W | 1M | 3M | YTD |
 |---|---|---|---|---|---|
-| SPY | +0.5% | +0.5% | -0.0% | +4.7% | +13.4% |
-| QQQ | +1.1% | -0.5% | -3.0% | +4.8% | +18.1% |
-| IWM | +0.2% | +1.9% | -3.7% | -5.3% | +12.3% |
-| DIA | +0.6% | +2.3% | +1.9% | +2.2% | +9.8% |
+| SPY | -1.2% | -1.0% | -0.5% | +3.4% | +12.0% |
+| QQQ | -2.9% | -3.2% | -5.0% | +3.0% | +14.7% |
+| IWM | +0.1% | +0.6% | -1.9% | -5.0% | +12.4% |
+| DIA | +0.0% | +1.3% | +2.6% | +1.8% | +9.8% |
 
-- SPY above 50D, above 200D. QQQ below 50D, above 200D.
-- Breadth: 41.9% of 1,726 stocks above their 50D (5 days ago: 28.0%); 47.5% above 200D.
-- New 52-week closing highs / lows: 63 / 41 today; 10-day average 42.7 / 63.2.
+- SPY below 50D, above 200D. QQQ below 50D, above 200D.
+- Breadth: 47.7% of 1,725 stocks above their 50D (5 days ago: 34.2%); 48.7% above 200D.
+- New 52-week closing highs / lows: 96 / 64 today; 10-day average 49.5 / 64.5.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
 |---|---|---|---|---|
-| 1 | Refiners | +18.0% | 1 | 0 |
-| 2 | AI in Healthcare | +12.3% | 2 | 0 |
-| 3 | Cloud Computing | +11.9% | 3 | 0 |
-| 4 | Oil & Gas – E&P / Integrated | +11.4% | 6 | +2 |
-| 5 | Exchanges & Financial Data | +10.7% | 14 | +9 |
-| 6 | AI Software & Agents | +9.9% | 13 | +7 |
-| 7 | Cyber Security | +9.0% | 11 | +4 |
-| 8 | Managed Care & Health Services | +7.8% | 5 | -3 |
+| 1 | Refiners | +16.0% | 2 | +1 |
+| 2 | Exchanges & Financial Data | +13.2% | 9 | +7 |
+| 3 | AI in Healthcare | +11.9% | 1 | -2 |
+| 4 | Oil & Gas – E&P / Integrated | +9.8% | 8 | +4 |
+| 5 | Managed Care & Health Services | +9.0% | 6 | +1 |
+| 6 | Cyber Security | +8.6% | 12 | +6 |
+| 7 | Cloud Computing | +8.0% | 3 | -4 |
+| 8 | AI Software & Agents | +7.9% | 7 | -1 |
 
-Biggest rank gains (1W): Fintech / Digital Payments (+16), Oilfield Services (+11), Homebuilders & Housing (+11)
-Biggest rank drops (1W): Memory & Storage (-26), AI Compute & Foundry (-23), Copper (-22)
+Biggest rank gains (1W): Alternative Asset Managers (+20), Homebuilders & Housing (+14), Water (+10)
+Biggest rank drops (1W): Copper (-28), Memory & Storage (-22), Semi Equipment & Chip Design (-21)
 
 ## Focus candidates (passing 2+ screens)
 | Ticker | Theme | RS | Screens | Close | Pivot | 10 EMA | 50D | ADR | 1-ADR stop |
 |---|---|---|---|---|---|---|---|---|---|
-| CVI | Refiners ★ | 98 | Minervini TT 8/8; Zanger near pivot; Qulla setup; Kell EMA crossback | 60.73 | 63.51 | 60.1 | 49.17 | 5.1% | 57.63 |
-| CRL | Health Care | 96 | Minervini TT 8/8; Zanger breakout; Qulla breakout; Kell base n' break | 344.87 | 333.3 | 310.62 | 291.56 | 4.4% | 329.7 |
-| QLYS | Cyber Security | 96 | Minervini TT 8/8; Zanger near pivot; Kell wedge pop; Kell EMA crossback | 196.7 | 206.25 | 191.85 | 183.48 | 5.1% | 186.67 |
-| DINO | Refiners ★ | 98 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 125.57 | 129.37 | 123.33 | 108.46 | 3.5% | 121.18 |
-| HNGE | AI in Healthcare ★ | 98 | Minervini TT 8/8; Zanger breakout; Qulla breakout | 112.0 | 108.0 | 104.53 | 94.55 | 4.3% | 107.18 |
-| GTLB | Cloud Computing ★ | 97 | Minervini TT 8/8; Zanger near pivot; Qulla setup | 55.45 | 57.89 | 53.76 | 48.1 | 4.9% | 52.73 |
-| PSX | Refiners ★ | 97 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 290.07 | 299.39 | 286.61 | 260.3 | 3.0% | 281.37 |
-| CHRD | Oil & Gas – E&P / Integrated ★ | 88 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 150.85 | 157.06 | 148.47 | 144.16 | 2.8% | 146.63 |
-| DVN | Oil & Gas – E&P / Integrated ★ | 83 | Minervini TT 8/8; VCP-like; Zanger near pivot | 49.87 | 51.7 | 49.7 | 48.31 | 2.7% | 48.52 |
-| CDNA | Genomics | 99 | Minervini TT 8/8; Zanger near pivot; Qulla setup | 70.74 | 72.51 | 66.56 | 56.27 | 7.0% | 65.79 |
-| NSIT | Industrials | 97 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 171.19 | 177.34 | 164.67 | 157.81 | 3.5% | 165.2 |
-| CAKE | Consumer Discretionary | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 114.39 | 118.63 | 113.22 | 108.01 | 3.0% | 110.96 |
-| FTRE | Health Care | 96 | Minervini TT 8/8; Zanger breakout; Qulla breakout | 24.06 | 23.55 | 22.17 | 19.47 | 5.8% | 22.66 |
-| SN | Consumer Discretionary | 96 | Minervini TT 8/8; VCP-like; Zanger near pivot | 197.58 | 198.97 | 190.61 | 180.51 | 3.4% | 190.86 |
-| ECPG | Financials | 95 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 104.16 | 105.98 | 101.73 | 99.35 | 3.0% | 101.04 |
+| QLYS | Cyber Security | 97 | Minervini TT 8/8; Zanger breakout; Qulla breakout; Kell wedge pop | 208.2 | 206.25 | 194.83 | 183.9 | 5.2% | 197.37 |
+| APA | Oil & Gas – E&P / Integrated ★ | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 49.44 | 50.5 | 48.26 | 44.4 | 3.2% | 47.86 |
+| PR | Oil & Gas – E&P / Integrated ★ | 93 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 24.4 | 25.21 | 24.12 | 23.01 | 2.8% | 23.72 |
+| OVV | Oil & Gas – E&P / Integrated ★ | 92 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 69.3 | 70.98 | 67.71 | 64.1 | 2.7% | 67.43 |
+| CHRD | Oil & Gas – E&P / Integrated ★ | 89 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 150.48 | 157.06 | 148.83 | 144.41 | 2.9% | 146.12 |
+| EOG | Oil & Gas – E&P / Integrated ★ | 86 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 157.96 | 159.93 | 154.66 | 147.13 | 2.2% | 154.48 |
+| XOM | Oil & Gas – E&P / Integrated ★ | 86 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 178.23 | 180.26 | 175.37 | 165.29 | 1.9% | 174.84 |
+| MUR | Oil & Gas – E&P / Integrated ★ | 83 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 42.37 | 43.63 | 41.16 | 37.73 | 3.3% | 40.97 |
+| TEAM | Cloud Computing | 99 | Minervini TT 8/8; Zanger near pivot; Qulla setup | 223.16 | 227.36 | 213.94 | 189.47 | 4.5% | 213.12 |
+| AMN | Health Care | 98 | Minervini TT 8/8; Zanger breakout; Qulla breakout | 46.82 | 43.41 | 40.89 | 35.69 | 4.2% | 44.85 |
+| NSIT | Industrials | 97 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 171.27 | 177.34 | 165.87 | 158.14 | 3.5% | 165.28 |
+| DT | Cloud Computing | 95 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 63.37 | 66.3 | 62.86 | 56.03 | 3.2% | 61.34 |
+| BIIB | Health Care | 93 | Minervini TT 8/8; Zanger breakout; Kell base n' break | 253.84 | 244.65 | 237.4 | 222.58 | 2.8% | 246.73 |
+| NHC | Health Care | 93 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 243.07 | 248.2 | 237.95 | 227.47 | 3.1% | 235.53 |
+| DAVE | Fintech / Digital Payments | 92 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 382.39 | 394.99 | 366.42 | 354.38 | 5.3% | 362.12 |
 
 ## New on the screens today
-ABSI (Minervini TT 8/8; Kell wedge pop), CERT (Zanger near pivot; Kell EMA crossback), ACN (Zanger near pivot), EXLS (Zanger near pivot), OPCH (Zanger near pivot), DOCS (Zanger near pivot), SEI (Kell wedge pop), UNF (Minervini TT 8/8), EL (Kell EMA crossback), VRTX (Minervini TT 8/8), MSI (Minervini TT 8/8), QGEN (Kell EMA crossback), URI (Kell wedge pop)
+IOSP (Minervini TT 8/8; Zanger near pivot), EHC (Minervini TT 8/8; Kell wedge pop), NDAQ (Zanger breakout; Kell base n' break), CTSH (Zanger breakout), PRGS (Zanger near pivot), QTWO (Zanger breakout), RHI (Kell wedge pop), APPF (Kell EMA crossback), ULTA (Kell base n' break), SBH (Kell EMA crossback), TRI (Zanger breakout), SONY (Kell base n' break), CATY (Minervini TT 8/8), DG (Kell EMA crossback), INCY (Kell wedge pop), NIC (Minervini TT 8/8), RLI (Zanger breakout), GFF (Minervini TT 8/8), MHK (Kell wedge pop), CVSA (VCP-like), BMI (Kell wedge pop), SHC (Kell wedge pop)
 
 ## Warnings on theme stocks
-MRNA (Climax watch), PBF (Wedge drop), NTSK (Climax watch), SCCO (Closed below 50D), EXPE (Closed below 50D)
+MRNA (Wedge drop), OKTA (Wedge drop), NTAP (Wedge drop), DDOG (Wedge drop), MATX (Wedge drop), FFIV (Wedge drop), MSFT (Wedge drop), TXG (Closed below 50D), MRVL (Closed below 50D), NTSK (Climax watch), TWLO (Closed below 50D), ASX (Closed below 50D), AMD (Closed below 50D), PARR (Closed below 50D; Wedge drop), SDGR (Closed below 50D), TNK (Closed below 50D), S (Closed below 50D), PTEN (Wedge drop), GSAT (Closed below 50D; Wedge drop), STNG (Closed below 50D), TXN (Wedge drop), ADI (Wedge drop), WTS (Closed below 50D), FANG (Closed below 50D)
 
 ---
 Generated by Theme Monitor. Levels are reference points for review, not trade instructions.
