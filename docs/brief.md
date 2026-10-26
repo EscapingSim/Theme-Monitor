@@ -11,8 +11,8 @@ Mixed tape. Be selective, size down, take profits faster.
 | DIA | +0.3% | +0.8% | +1.1% | -0.7% | +8.8% |
 
 - SPY below 50D, above 200D. QQQ below 50D, above 200D.
-- Breadth: 47.9% of 1,725 stocks above their 50D (5 days ago: 32.3%); 48.7% above 200D.
-- New 52-week closing highs / lows: 58 / 61 today; 10-day average 54.5 / 63.1.
+- Breadth: 47.8% of 1,726 stocks above their 50D (5 days ago: 32.3%); 48.7% above 200D.
+- New 52-week closing highs / lows: 58 / 61 today; 10-day average 54.5 / 63.3.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
