@@ -1,4 +1,4 @@
-# Morning brief: close of 2026-10-27
+# Morning brief: close of 2026-10-28
 
 ## Market regime: Under pressure
 Mixed tape. Be selective, size down, take profits faster.
@@ -11,23 +11,23 @@ Mixed tape. Be selective, size down, take profits faster.
 | DIA | +0.1% | -0.2% | +1.8% | +1.5% | +8.9% |
 
 - SPY above 50D, above 200D. QQQ below 50D, above 200D.
-- Breadth: 49.0% of 1,726 stocks above their 50D (5 days ago: 39.7%); 50.0% above 200D.
-- New 52-week closing highs / lows: 41 / 22 today; 10-day average 54.4 / 58.1.
+- Breadth: 50.0% of 1,726 stocks above their 50D (5 days ago: 41.8%); 58.3% above 200D.
+- New 52-week closing highs / lows: 1 / 0 today; 10-day average 51.5 / 45.3.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
 |---|---|---|---|---|
-| 1 | Cyber Security | +22.7% | 14 | +13 |
+| 1 | Cyber Security | +22.7% | 7 | +6 |
 | 2 | AI in Healthcare | +19.2% | 2 | 0 |
 | 3 | Natural Gas / LNG | +13.8% | 16 | +13 |
-| 4 | Oil & Gas – E&P / Integrated | +12.7% | 3 | -1 |
-| 5 | Cloud Computing | +11.6% | 6 | +1 |
-| 6 | Genomics | +10.4% | 7 | +1 |
-| 7 | Oilfield Services | +9.4% | 23 | +16 |
+| 4 | Oil & Gas – E&P / Integrated | +12.7% | 4 | 0 |
+| 5 | Cloud Computing | +11.6% | 3 | -2 |
+| 6 | Genomics | +10.4% | 9 | +3 |
+| 7 | Oilfield Services | +9.4% | 17 | +10 |
 | 8 | Exchanges & Financial Data | +8.6% | 5 | -3 |
 
-Biggest rank gains (1W): AI Compute & Foundry (+19), Oilfield Services (+16), Natural Gas / LNG (+13)
-Biggest rank drops (1W): Commercial Aerospace (-18), Digital Media & Advertising (-16), Aging Population (-15)
+Biggest rank gains (1W): Natural Gas / LNG (+13), AI Compute & Foundry (+13), Memory & Storage (+11)
+Biggest rank drops (1W): Digital Media & Advertising (-15), Aging Population (-13), Fintech / Digital Payments (-13)
 
 ## Focus candidates (passing 2+ screens)
 | Ticker | Theme | RS | Screens | Close | Pivot | 10 EMA | 50D | ADR | 1-ADR stop |
@@ -44,12 +44,12 @@ Biggest rank drops (1W): Commercial Aerospace (-18), Digital Media & Advertising
 | SM | Energy | 95 | Minervini TT 8/8; VCP-like; Kell EMA crossback | 39.07 | 41.56 | 38.82 | 36.94 | 3.5% | 37.7 |
 | SN | Consumer Discretionary | 95 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 197.53 | 200.38 | 194.61 | 181.48 | 3.1% | 191.41 |
 | CNK | Communication Services | 90 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 39.53 | 40.53 | 39.02 | 36.78 | 3.1% | 38.3 |
+| DRH | Real Estate | 90 | Minervini TT 8/8; Zanger breakout; Kell base n' break | 14.12 | 14.1 | 13.66 | 12.68 | 2.5% | 13.77 |
 | PK | Real Estate | 89 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 16.77 | 17.14 | 16.33 | 15.57 | 2.8% | 16.3 |
 | MANH | Information Technology | 88 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 233.98 | 242.63 | 230.84 | 214.32 | 3.0% | 226.96 |
-| VTRS | Health Care | 88 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 18.72 | 18.75 | 18.27 | 17.28 | 2.6% | 18.23 |
 
 ## New on the screens today
-ABSI (Minervini TT 8/8; Kell EMA crossback), ENTG (Minervini TT 8/8; Kell wedge pop), VSAT (Minervini TT 8/8; Kell wedge pop), EAT (Kell wedge pop), ASO (Kell EMA crossback), DOCS (Kell EMA crossback), EXTR (Kell wedge pop), BKH (Minervini TT 8/8), DAL (Minervini TT 8/8), DHR (Kell EMA crossback), AME (Minervini TT 8/8), LECO (Kell wedge pop), ST (Kell wedge pop), EQIX (Kell wedge pop), SOFI (Episodic pivot)
+AI (Kell EMA crossback)
 
 ## Warnings on theme stocks
 RRC (Climax watch; Exhaustion extension), MPC (Wedge drop), NTSK (Climax watch), CVI (Wedge drop), DINO (Wedge drop), RPD (Climax watch), TENB (Climax watch), PSX (Wedge drop), ZS (Climax watch), ELV (Wedge drop), PBF (Closed below 50D), TWLO (Closed below 50D), VLO (Closed below 50D; Wedge drop), DK (Closed below 50D; Wedge drop), PARR (Closed below 50D), THC (Closed below 50D; Wedge drop), ABNB (Wedge drop)
