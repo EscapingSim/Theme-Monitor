@@ -268,7 +268,6 @@ J,Jacobs Solutions,Industrials
 JNJ,Johnson & Johnson,Health Care
 JCI,Johnson Controls,Industrials
 JPM,JPMorgan Chase,Financials
-KVUE,Kenvue,Consumer Staples
 KDP,Keurig Dr Pepper,Consumer Staples
 KEY,KeyCorp,Financials
 KEYS,Keysight Technologies,Information Technology
@@ -346,6 +345,7 @@ NVR,"NVR, Inc.",Consumer Discretionary
 NXPI,NXP Semiconductors,Information Technology
 ORLY,O'Reilly Automotive,Consumer Discretionary
 OXY,Occidental Petroleum,Energy
+OKTA,"Okta, Inc.",Information Technology
 ODFL,Old Dominion,Industrials
 OMC,Omnicom Group,Communication Services
 ON,ON Semiconductor,Information Technology
@@ -663,6 +663,7 @@ GBCI,Glacier Bancorp,Financials
 GEF,"Greif, Inc.",Materials
 GGG,Graco Inc.,Industrials
 GHC,Graham Holdings,Consumer Discretionary
+GKOS,Glaukos Corp.,Health Care
 GLPI,Gaming and Leisure Properties,Real Estate
 GME,GameStop,Consumer Discretionary
 GMED,Globus Medical,Health Care
@@ -760,7 +761,6 @@ OC,Owens Corning,Industrials
 OGE,OGE Energy,Utilities
 OGS,One Gas,Utilities
 OHI,Omega Healthcare Investors,Real Estate
-OKTA,"Okta, Inc.",Information Technology
 OLED,Universal Display,Information Technology
 OLLI,Ollie's Bargain Outlet,Consumer Discretionary
 ONB,Old National Bank,Financials
@@ -1122,7 +1122,6 @@ GBX,"The Greenbrier Companies, Inc.",Industrials
 GEO,"GEO Group, Inc.",Industrials
 GFF,Griffon Corporation,Industrials
 GIII,"G-III Apparel Group, Ltd.",Consumer Discretionary
-GKOS,Glaukos Corp.,Health Care
 GNL,"Global Net Lease, Inc.",Real Estate
 GNW,"Genworth Financial, Inc.",Financials
 GO,Grocery Outlet,Consumer Staples
