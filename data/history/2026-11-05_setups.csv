@@ -1,0 +1,406 @@
+ticker,close,rs,tt_n,n_sig,signals,warnings
+VCEL,51.78,92,8,5,Minervini TT 8/8; Zanger breakout; Qulla breakout; Episodic pivot; Kell wedge pop,Climax watch; Exhaustion extension
+ECPG,126.17,98,8,4,Minervini TT 8/8; Zanger breakout; Kell wedge pop; Kell base n' break,Climax watch; Exhaustion extension
+ADMA,13.21,82,4,4,Zanger breakout; Qulla breakout; Episodic pivot; Kell wedge pop,Climax watch
+HAE,124.11,99,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+AMN,47.42,98,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+ACHC,34.79,97,8,3,Minervini TT 8/8; Zanger breakout; Kell wedge pop,
+U,48.8,96,7,3,Zanger breakout; Episodic pivot; Kell wedge pop,Exhaustion extension
+EPAM,165.7,94,5,3,Zanger breakout; Qulla breakout; Episodic pivot,Climax watch; Exhaustion extension
+FA,23.13,94,8,3,Minervini TT 8/8; Zanger breakout; Qulla breakout,
+DRH,13.98,93,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+APLE,18.15,92,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+BDX,213.55,92,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,
+FTDR,95.98,92,8,3,Minervini TT 8/8; Zanger breakout; Kell EMA crossback,
+AMGN,460.28,90,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+IPAR,135.28,90,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,Exhaustion extension
+VTRS,18.97,90,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+LNTH,100.7,89,8,3,Minervini TT 8/8; VCP-like; Zanger near pivot,
+CAH,267.82,88,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,
+EBAY,123.35,88,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+PLMR,155.67,88,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,
+RHP,131.67,87,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+MTD,1679.08,83,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+SONY,27.54,83,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,
+CNO,56.43,82,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+EW,100.82,82,8,3,Minervini TT 8/8; Zanger breakout; Kell base n' break,
+ABM,53.67,81,8,3,Minervini TT 8/8; Zanger near pivot; Kell EMA crossback,
+CDNA,76.33,99,8,2,Minervini TT 8/8; Kell EMA crossback,
+HNGE,115.98,99,8,2,Minervini TT 8/8; Kell EMA crossback,
+XNCR,34.05,99,8,2,Minervini TT 8/8; Zanger near pivot,Climax watch
+CBRL,67.92,98,8,2,Minervini TT 8/8; Kell EMA crossback,
+CHPT,10.96,98,8,2,Minervini TT 8/8; Zanger near pivot,Climax watch
+CON,42.15,98,8,2,Minervini TT 8/8; Zanger near pivot,
+HZO,52.73,98,8,2,Minervini TT 8/8; Zanger near pivot,
+LFST,13.43,98,8,2,Minervini TT 8/8; Kell EMA crossback,
+SDGR,28.77,98,8,2,Minervini TT 8/8; Kell EMA crossback,
+SEZL,155.0,98,7,2,Zanger breakout; Qulla breakout,
+SN,217.13,98,8,2,Minervini TT 8/8; Zanger near pivot,
+VSXY,106.31,98,8,2,Minervini TT 8/8; Zanger near pivot,
+MANH,255.17,97,8,2,Minervini TT 8/8; Zanger near pivot,
+PCRX,36.42,97,8,2,Minervini TT 8/8; Zanger near pivot,
+PGNY,34.37,97,8,2,Minervini TT 8/8; Zanger breakout,Climax watch; Exhaustion extension
+BOX,43.55,96,8,2,Minervini TT 8/8; Zanger near pivot,
+CERT,12.18,96,8,2,Minervini TT 8/8; Kell EMA crossback,Climax watch
+CNC,74.17,96,8,2,Minervini TT 8/8; Zanger near pivot,
+EXEL,68.71,96,8,2,Minervini TT 8/8; Kell EMA crossback,
+PEB,20.81,96,8,2,Minervini TT 8/8; Kell EMA crossback,
+TGTX,57.98,96,8,2,Minervini TT 8/8; Kell EMA crossback,
+VRNS,48.73,96,8,2,Minervini TT 8/8; Zanger near pivot,
+DOCU,78.92,95,8,2,Minervini TT 8/8; Kell EMA crossback,
+LTH,47.75,95,8,2,Minervini TT 8/8; Zanger near pivot,
+RPD,15.44,95,8,2,Minervini TT 8/8; Kell EMA crossback,
+VEEV,310.1,95,8,2,Minervini TT 8/8; Kell EMA crossback,
+FLYW,21.26,94,8,2,Minervini TT 8/8; Zanger near pivot,
+KSS,23.9,94,8,2,Minervini TT 8/8; Kell EMA crossback,
+RXO,27.88,94,8,2,Minervini TT 8/8; Kell EMA crossback,
+SAIC,146.86,94,8,2,Minervini TT 8/8; Kell EMA crossback,
+BBY,99.4,93,8,2,Minervini TT 8/8; Zanger near pivot,
+CPAY,447.0,93,8,2,Minervini TT 8/8; Zanger breakout,
+FDS,340.47,93,8,2,Minervini TT 8/8; Zanger near pivot,
+ITGR,126.75,93,8,2,Minervini TT 8/8; Zanger near pivot,
+MD,31.84,93,8,2,Minervini TT 8/8; Zanger near pivot,
+OGN,13.79,93,8,2,Minervini TT 8/8; Zanger near pivot,
+CNK,40.04,92,8,2,Minervini TT 8/8; Zanger near pivot,
+ROKU,160.37,92,8,2,Minervini TT 8/8; Zanger near pivot,
+ALRM,67.03,91,8,2,Minervini TT 8/8; Zanger near pivot,
+BIIB,243.93,91,8,2,Minervini TT 8/8; Kell EMA crossback,
+GO,13.14,91,8,2,Minervini TT 8/8; Kell EMA crossback,
+HRB,55.01,91,8,2,Minervini TT 8/8; Zanger near pivot,
+RRC,50.19,91,8,2,Minervini TT 8/8; Kell EMA crossback,
+KDP,36.89,90,8,2,Minervini TT 8/8; Zanger near pivot,
+LH,363.3,90,8,2,Minervini TT 8/8; Zanger near pivot,
+MORN,247.17,90,8,2,Minervini TT 8/8; Zanger breakout,
+THC,286.46,90,8,2,Minervini TT 8/8; Zanger near pivot,
+ABBV,288.24,89,8,2,Minervini TT 8/8; Zanger near pivot,
+COKE,212.5,89,8,2,Minervini TT 8/8; Zanger near pivot,
+GSAT,83.53,89,8,2,Minervini TT 8/8; Zanger near pivot,
+PCTY,169.57,89,8,2,Minervini TT 8/8; Kell EMA crossback,
+SPOT,614.41,89,8,2,Minervini TT 8/8; Zanger near pivot,
+THG,249.25,89,8,2,Minervini TT 8/8; Zanger near pivot,
+ACIW,59.52,87,8,2,Minervini TT 8/8; Zanger near pivot,
+DGX,254.74,87,8,2,Minervini TT 8/8; Zanger near pivot,
+MHK,150.88,87,8,2,Minervini TT 8/8; Zanger near pivot,
+OPCH,31.5,87,6,2,Zanger near pivot; Kell EMA crossback,
+PTC,194.6,87,7,2,Zanger near pivot; Kell EMA crossback,
+TREX,56.01,87,8,2,Minervini TT 8/8; Zanger near pivot,
+TRV,402.89,87,8,2,Minervini TT 8/8; Zanger near pivot,
+ADP,307.14,86,8,2,Minervini TT 8/8; Zanger near pivot,
+ASH,76.28,86,8,2,Minervini TT 8/8; Zanger near pivot,
+EHC,141.27,86,8,2,Minervini TT 8/8; Zanger near pivot,
+GWW,1451.39,86,8,2,Minervini TT 8/8; Zanger near pivot,
+URBN,87.57,86,8,2,Minervini TT 8/8; Kell EMA crossback,
+V,422.59,86,8,2,Minervini TT 8/8; Zanger near pivot,
+VLTO,116.55,86,8,2,Minervini TT 8/8; Zanger near pivot,
+AIZ,306.87,85,8,2,Minervini TT 8/8; Zanger near pivot,
+HLT,369.64,85,8,2,Minervini TT 8/8; Zanger near pivot,
+KO,95.73,84,8,2,Minervini TT 8/8; Zanger near pivot,
+OUT,32.0,84,7,2,Zanger near pivot; Kell EMA crossback,
+RGA,261.96,84,8,2,Minervini TT 8/8; Zanger near pivot,Wedge drop
+SJM,133.25,84,8,2,Minervini TT 8/8; Zanger near pivot,
+SPNT,26.27,84,8,2,Minervini TT 8/8; Zanger near pivot,
+TFX,152.15,84,8,2,Minervini TT 8/8; Zanger breakout,
+CDW,158.39,83,8,2,Minervini TT 8/8; Kell EMA crossback,
+EG,417.79,83,8,2,Minervini TT 8/8; Zanger near pivot,
+ELV,432.0,83,8,2,Minervini TT 8/8; Zanger near pivot,
+MA,655.92,83,8,2,Minervini TT 8/8; Zanger near pivot,
+WSM,258.61,83,8,2,Minervini TT 8/8; Kell EMA crossback,
+BILL,50.89,82,6,2,Zanger near pivot; Kell EMA crossback,
+DV,13.54,82,8,2,Minervini TT 8/8; Zanger near pivot,
+LTC,45.65,82,8,2,Minervini TT 8/8; Zanger near pivot,
+MNST,47.83,82,8,2,Minervini TT 8/8; Zanger near pivot,
+MSI,517.01,82,7,2,Zanger breakout; Kell base n' break,
+NDAQ,106.83,82,8,2,Minervini TT 8/8; Zanger near pivot,
+WAT,453.08,82,8,2,Minervini TT 8/8; Kell EMA crossback,
+AAPL,344.17,81,8,2,Minervini TT 8/8; Zanger near pivot,
+JNJ,272.32,81,8,2,Minervini TT 8/8; Zanger near pivot,
+MO,77.58,81,8,2,Minervini TT 8/8; Zanger near pivot,
+NWE,82.02,81,8,2,Minervini TT 8/8; Zanger near pivot,
+VRTX,542.5,81,8,2,Minervini TT 8/8; Zanger near pivot,
+MET,99.75,80,8,2,Minervini TT 8/8; Zanger near pivot,Wedge drop
+RNR,354.23,80,8,2,Minervini TT 8/8; Zanger near pivot,
+AWK,152.42,79,6,2,Zanger breakout; Kell base n' break,
+CSX,50.83,79,8,2,Minervini TT 8/8; Kell EMA crossback,
+MSFT,535.93,78,8,2,Minervini TT 8/8; Kell EMA crossback,
+CATY,64.16,77,8,2,Minervini TT 8/8; Kell EMA crossback,
+ED,121.44,77,5,2,Zanger breakout; Kell base n' break,
+AFG,156.35,76,7,2,Zanger breakout; Kell base n' break,
+CXT,59.29,73,8,2,Minervini TT 8/8; Kell EMA crossback,
+VNT,39.9,73,5,2,Zanger breakout; Kell base n' break,
+ENOV,28.62,65,5,2,Qulla breakout; Episodic pivot,
+WRBY,26.08,62,5,2,Episodic pivot; Kell wedge pop,
+MRNA,241.46,99,8,1,Minervini TT 8/8,
+ANF,157.59,98,8,1,Minervini TT 8/8,Wedge drop
+GKOS,219.98,98,8,1,Minervini TT 8/8,
+HTFL,51.95,98,8,1,Minervini TT 8/8,Wedge drop
+TENB,44.16,98,8,1,Minervini TT 8/8,Wedge drop
+CAKE,110.71,97,8,1,Minervini TT 8/8,Wedge drop
+HALO,122.96,97,8,1,Minervini TT 8/8,Wedge drop
+NTSK,21.67,97,8,1,Minervini TT 8/8,Wedge drop
+CRL,313.02,96,8,1,Minervini TT 8/8,
+CROX,152.93,96,8,1,Minervini TT 8/8,
+PAYC,250.02,96,8,1,Minervini TT 8/8,Wedge drop
+QLYS,199.63,96,8,1,Minervini TT 8/8,Wedge drop
+BTSG,65.86,95,8,1,Minervini TT 8/8,
+FTRE,20.46,95,8,1,Minervini TT 8/8,
+HUM,411.79,95,8,1,Minervini TT 8/8,Wedge drop
+RVTY,150.83,95,8,1,Minervini TT 8/8,Wedge drop
+VIR,11.02,95,8,1,Minervini TT 8/8,Wedge drop
+AZTA,37.38,94,8,1,Minervini TT 8/8,Wedge drop
+CART,57.79,94,8,1,Minervini TT 8/8,
+CVLT,157.62,94,8,1,Minervini TT 8/8,Wedge drop
+CHYM,30.18,93,8,1,Minervini TT 8/8,
+ETSY,91.53,93,8,1,Minervini TT 8/8,
+HOG,32.58,93,8,1,Minervini TT 8/8,
+LIVN,91.14,93,8,1,Minervini TT 8/8,
+VCTR,112.41,93,8,1,Minervini TT 8/8,
+ACN,265.16,92,6,1,Zanger near pivot,
+EAT,212.66,92,8,1,Minervini TT 8/8,
+SWK,115.27,92,8,1,Minervini TT 8/8,
+VAC,107.18,92,8,1,Minervini TT 8/8,Wedge drop
+AMRX,19.45,91,8,1,Minervini TT 8/8,
+HAS,119.54,91,7,1,Zanger near pivot,
+LGND,299.0,91,8,1,Minervini TT 8/8,Wedge drop
+LLY,1364.73,91,8,1,Minervini TT 8/8,
+MRK,146.94,91,8,1,Minervini TT 8/8,
+PCOR,75.6,91,6,1,Zanger near pivot,Climax watch; Exhaustion extension
+RHI,42.99,91,8,1,Minervini TT 8/8,
+TGT,157.95,91,8,1,Minervini TT 8/8,
+OSW,30.72,90,7,1,Zanger near pivot,Climax watch
+QTWO,75.62,90,7,1,Zanger breakout,
+SIG,121.92,90,8,1,Minervini TT 8/8,
+SIRI,33.22,90,7,1,Zanger near pivot,Exhaustion extension
+WST,392.48,90,8,1,Minervini TT 8/8,Wedge drop
+ELF,109.85,89,8,1,Minervini TT 8/8,Wedge drop
+MAR,417.28,89,7,1,Zanger near pivot,
+SYNA,116.4,89,7,1,Zanger near pivot,
+A,171.78,88,8,1,Minervini TT 8/8,Wedge drop
+EXPO,85.83,88,7,1,Zanger near pivot,
+MCK,1072.0,88,7,1,Zanger near pivot,
+ROP,490.96,88,7,1,Zanger near pivot,
+TDC,32.72,88,8,1,Minervini TT 8/8,Wedge drop
+VFC,20.32,88,5,1,Zanger near pivot,
+AGYS,119.76,87,7,1,Kell EMA crossback,
+BSY,44.94,87,6,1,Zanger breakout,Climax watch
+DXC,15.17,87,6,1,Kell EMA crossback,
+GILD,167.57,87,7,1,Zanger near pivot,
+TYL,430.37,87,6,1,Zanger breakout,
+WLY,50.47,87,8,1,Minervini TT 8/8,Wedge drop
+CBOE,353.07,86,8,1,Minervini TT 8/8,
+DBX,35.76,86,8,1,Minervini TT 8/8,Wedge drop
+GEN,30.6,86,7,1,Zanger near pivot,
+SHO,12.35,86,8,1,Minervini TT 8/8,Wedge drop
+TMO,676.94,86,8,1,Minervini TT 8/8,Wedge drop
+AJG,288.11,85,7,1,Zanger near pivot,
+FCN,195.99,85,5,1,Zanger near pivot,Climax watch
+GDDY,120.12,85,7,1,Zanger near pivot,
+GPN,94.98,85,8,1,Minervini TT 8/8,
+HST,24.63,85,8,1,Minervini TT 8/8,Wedge drop
+NSP,50.82,85,8,1,Minervini TT 8/8,
+WKC,36.64,85,8,1,Minervini TT 8/8,Wedge drop
+DVA,194.82,84,7,1,Zanger near pivot,
+QGEN,50.86,84,7,1,Zanger near pivot,
+R,270.16,84,7,1,Kell EMA crossback,
+SBH,18.74,84,7,1,Zanger near pivot,
+XYZ,84.04,84,8,1,Minervini TT 8/8,
+BLKB,55.8,83,6,1,Zanger near pivot,
+MOH,216.64,83,8,1,Minervini TT 8/8,
+CTAS,226.41,82,7,1,Zanger near pivot,
+EL,107.65,82,6,1,Kell EMA crossback,
+RGLD,261.28,82,6,1,Zanger near pivot,
+ABNB,170.13,81,8,1,Minervini TT 8/8,
+APPF,233.22,81,7,1,Zanger near pivot,
+BAX,25.65,81,8,1,Minervini TT 8/8,
+MAC,25.02,81,7,1,Zanger near pivot,
+MDT,104.84,81,6,1,Zanger near pivot,
+WTRG,46.05,81,6,1,Kell base n' break,
+MEDP,634.98,80,8,1,Minervini TT 8/8,Wedge drop
+TTEK,40.56,80,7,1,Zanger near pivot,
+WDAY,200.17,80,7,1,Kell EMA crossback,
+ALL,266.72,79,8,1,Minervini TT 8/8,
+AVNT,45.32,79,8,1,Minervini TT 8/8,
+BKH,84.63,79,8,1,Minervini TT 8/8,
+FIVE,241.26,79,8,1,Minervini TT 8/8,
+GRMN,286.4,79,8,1,Minervini TT 8/8,
+PAG,212.2,79,8,1,Minervini TT 8/8,
+SLAB,221.35,79,8,1,Minervini TT 8/8,Wedge drop
+USFD,106.85,79,8,1,Minervini TT 8/8,
+VRSN,312.06,79,8,1,Minervini TT 8/8,
+WELL,245.43,79,8,1,Minervini TT 8/8,
+DAL,85.36,78,8,1,Minervini TT 8/8,
+RS,414.04,78,8,1,Minervini TT 8/8,Wedge drop
+SIGI,101.77,78,8,1,Minervini TT 8/8,
+UFPT,299.82,78,8,1,Minervini TT 8/8,
+ADUS,126.81,77,8,1,Minervini TT 8/8,
+CF,118.57,77,6,1,Kell wedge pop,
+NIC,172.8,77,8,1,Minervini TT 8/8,
+PM,201.5,77,8,1,Minervini TT 8/8,Wedge drop
+FHI,64.04,76,8,1,Minervini TT 8/8,
+PRGS,44.59,76,7,1,Kell EMA crossback,
+TECH,72.66,76,8,1,Minervini TT 8/8,
+TRI,118.11,76,6,1,Kell EMA crossback,
+TTC,105.13,76,7,1,Kell EMA crossback,
+WAY,28.88,76,6,1,Kell EMA crossback,
+CB,371.63,75,8,1,Minervini TT 8/8,
+UNH,395.72,75,8,1,Minervini TT 8/8,Wedge drop
+UNP,297.95,75,8,1,Minervini TT 8/8,
+DRI,228.67,74,8,1,Minervini TT 8/8,
+FNV,250.69,74,7,1,Kell wedge pop,
+MMM,187.77,74,8,1,Minervini TT 8/8,
+MTN,158.54,74,8,1,Minervini TT 8/8,
+PFG,112.82,74,8,1,Minervini TT 8/8,
+PRGO,15.71,74,8,1,Minervini TT 8/8,
+WSFS,79.13,74,8,1,Minervini TT 8/8,
+FAST,52.9,73,8,1,Minervini TT 8/8,
+ICUI,167.65,73,8,1,Minervini TT 8/8,
+OMC,87.09,73,8,1,Minervini TT 8/8,
+PRU,122.46,73,8,1,Minervini TT 8/8,
+WMG,31.92,73,8,1,Minervini TT 8/8,
+HIW,31.72,72,8,1,Minervini TT 8/8,
+HQY,103.46,72,8,1,Minervini TT 8/8,
+LYV,181.25,72,8,1,Minervini TT 8/8,
+MMSI,89.62,72,8,1,Minervini TT 8/8,
+CHE,533.77,71,8,1,Minervini TT 8/8,
+ENR,24.47,71,8,1,Minervini TT 8/8,
+GM,89.33,71,8,1,Minervini TT 8/8,
+HTO,62.63,71,8,1,Minervini TT 8/8,
+NATL,46.99,71,8,1,Minervini TT 8/8,
+ROST,235.23,71,8,1,Minervini TT 8/8,
+AXTA,36.34,70,8,1,Minervini TT 8/8,
+BMI,159.55,70,5,1,Qulla setup,
+GFF,102.4,70,8,1,Minervini TT 8/8,
+TRU,82.91,65,5,1,Qulla setup,
+AEM,189.06,61,3,1,Kell wedge pop,
+APP,356.1,23,2,1,Episodic pivot,
+RNG,74.33,99,7,0,,Closed below 50D
+CRWD,217.2,97,7,0,,
+MPC,377.32,97,7,0,,
+NSIT,152.72,97,7,0,,Closed below 50D; Wedge drop
+NTRA,363.76,97,7,0,,Closed below 50D
+RBRK,105.74,97,7,0,,Closed below 50D
+VLO,351.23,97,7,0,,
+AAMI,91.79,96,7,0,,
+TEAM,183.29,96,7,0,,
+APA,43.48,95,7,0,,
+DINO,97.77,95,7,0,,
+FIVN,34.14,95,7,0,,Closed below 50D; Wedge drop
+PSX,247.04,95,7,0,,
+DK,62.49,94,7,0,,
+GTLB,48.99,94,7,0,,Closed below 50D
+NEO,16.49,94,7,0,,
+AVTR,15.14,93,7,0,,Closed below 50D
+MATX,213.87,93,7,0,,
+ROIV,36.62,93,7,0,,Closed below 50D
+ASO,67.81,92,7,0,,
+PTGX,135.26,92,7,0,,Closed below 50D; Wedge drop
+YOU,56.5,92,7,0,,Climax watch; Exhaustion extension
+ZD,54.28,92,7,0,,Closed below 50D
+GH,153.43,91,7,0,,
+CHEF,103.35,90,7,0,,
+PK,15.55,90,7,0,,Closed below 50D; Wedge drop
+BRKR,58.06,89,7,0,,Closed below 50D; Wedge drop
+DAC,148.91,89,7,0,,
+EXLS,43.61,89,7,0,,
+IQV,264.88,89,7,0,,
+UPBD,24.88,89,5,0,,Climax watch; Exhaustion extension
+ZIM,27.43,89,7,0,,
+COP,135.46,88,7,0,,Closed below 50D
+ESTC,84.2,88,7,0,,
+LPG,46.08,88,7,0,,
+NEOG,11.68,88,7,0,,Closed below 50D
+RAL,62.83,88,6,0,,Closed below 50D; Wedge drop
+S,21.42,88,7,0,,Closed below 50D
+TEM,70.43,88,7,0,,Closed below 50D; Wedge drop
+BJRI,58.45,86,7,0,,Closed below 50D; Wedge drop
+REGN,902.9,86,7,0,,
+OVV,60.91,85,7,0,,
+BFH,102.57,84,7,0,,Closed below 50D; Wedge drop
+CVX,212.93,84,7,0,,Closed below 50D
+HPQ,29.44,84,7,0,,
+COLM,69.12,83,7,0,,
+LNG,279.57,83,7,0,,Closed below 50D
+SWKS,81.21,83,7,0,,Closed below 50D
+BIO,369.0,82,7,0,,Closed below 50D; Wedge drop
+CVCO,643.97,82,7,0,,
+DXCM,84.46,82,7,0,,Closed below 50D
+PAA,24.53,82,7,0,,
+EOG,144.89,81,7,0,,
+CZR,29.18,80,7,0,,
+DE,663.31,80,7,0,,Closed below 50D
+EXPD,188.87,80,7,0,,Closed below 50D; Wedge drop
+NUE,245.68,80,7,0,,Closed below 50D; Wedge drop
+TXN,278.15,80,5,0,,Closed below 50D; Wedge drop
+VOYA,98.4,80,7,0,,Closed below 50D
+XOM,165.3,80,7,0,,Closed below 50D
+ALKS,44.54,79,7,0,,
+BJ,111.26,79,7,0,,
+MAS,83.83,79,7,0,,
+RLI,69.72,79,7,0,,
+ALLE,187.14,78,7,0,,
+JAZZ,227.32,78,5,0,,Closed below 50D
+NEM,119.71,78,7,0,,
+PVH,92.28,78,7,0,,
+ACGL,110.57,77,7,0,,
+MSCI,655.91,77,7,0,,
+RGEN,168.48,77,7,0,,Closed below 50D
+SPSC,82.57,77,6,0,,Closed below 50D
+CHD,111.33,76,7,0,,
+MRSH,209.43,76,7,0,,
+RELY,21.55,76,6,0,,Closed below 50D; Wedge drop
+SOLV,87.18,76,7,0,,Closed below 50D
+ZBH,106.85,76,7,0,,
+BRK-B,572.33,75,7,0,,
+CHH,117.84,75,7,0,,
+IFF,86.36,75,7,0,,Closed below 50D
+JXN,132.73,75,7,0,,Closed below 50D; Wedge drop
+MTCH,39.16,75,7,0,,
+SAIL,18.39,75,7,0,,
+SEIC,105.18,75,7,0,,Closed below 50D
+ZBRA,321.64,75,7,0,,
+BALL,66.91,74,7,0,,
+FDX,316.8,74,7,0,,
+H,183.78,74,7,0,,
+AMG,350.54,73,7,0,,
+PYPL,58.96,73,7,0,,
+STNG,80.74,73,7,0,,Closed below 50D
+BNY,147.49,72,7,0,,Closed below 50D
+DHR,226.34,72,6,0,,Wedge drop
+EQH,52.91,72,7,0,,Closed below 50D; Wedge drop
+GME,24.17,72,7,0,,
+JLL,375.25,72,7,0,,
+PGR,233.18,72,7,0,,
+PSA,340.5,72,7,0,,
+WEX,179.78,72,7,0,,
+BEN,32.21,71,7,0,,Closed below 50D
+CME,307.24,71,7,0,,
+FTV,65.42,71,7,0,,
+KMX,52.6,71,7,0,,Wedge drop
+ZS,203.88,71,6,0,,Closed below 50D
+IT,198.07,70,7,0,,
+LIN,521.23,70,7,0,,
+UTHR,565.72,70,7,0,,Wedge drop
+CCK,121.86,69,7,0,,
+EBC,22.73,69,7,0,,
+M,24.19,69,7,0,,
+MDLZ,66.82,69,7,0,,
+UBSI,48.39,69,7,0,,
+BF-B,30.96,68,7,0,,
+BMY,63.13,68,7,0,,
+CUBI,84.32,68,7,0,,
+FULT,23.79,68,7,0,,
+SFNC,23.23,67,7,0,,
+ACT,47.77,66,7,0,,
+APD,309.49,66,7,0,,
+EMR,162.61,66,7,0,,
+FFBC,32.5,66,7,0,,
+LW,55.08,66,7,0,,
+CUZ,29.51,65,7,0,,
+HCI,192.03,65,7,0,,
+EWBC,129.04,64,7,0,,
+WOR,61.22,63,7,0,,
+KFY,77.16,61,7,0,,
+DORM,139.48,58,7,0,,
+USB,59.75,58,7,0,,
+SLG,51.55,57,7,0,,
+SW,44.51,55,7,0,,
+AMZN,260.21,51,7,0,,
