@@ -1,58 +1,58 @@
-# Morning brief: close of 2026-11-24
+# Morning brief: close of 2026-11-25
 
 ## Market regime: Correction
 Defensive. Most breakouts fail here; cash and tight watchlists.
 
 | Index | 1D | 1W | 1M | 3M | YTD |
 |---|---|---|---|---|---|
-| SPY | -0.5% | -1.9% | -6.1% | -6.2% | +5.4% |
-| QQQ | -2.0% | -2.9% | -10.4% | -10.3% | +3.9% |
-| IWM | +0.5% | -0.7% | -3.6% | -10.6% | +8.5% |
-| DIA | +0.8% | -1.5% | -4.4% | -6.5% | +4.0% |
+| SPY | -0.3% | -1.9% | -6.9% | -7.0% | +5.1% |
+| QQQ | -0.7% | -3.9% | -12.1% | -12.1% | +3.2% |
+| IWM | +0.7% | -0.5% | -4.0% | -10.3% | +9.2% |
+| DIA | +0.3% | -0.1% | -4.2% | -6.3% | +4.3% |
 
 - SPY below 50D, below 200D. QQQ below 50D, below 200D.
-- Breadth: 43.6% of 1,718 stocks above their 50D (5 days ago: 45.2%); 44.5% above 200D.
-- New 52-week closing highs / lows: 39 / 40 today; 10-day average 25.0 / 92.8.
+- Breadth: 46.8% of 1,719 stocks above their 50D (5 days ago: 45.8%); 45.9% above 200D.
+- New 52-week closing highs / lows: 61 / 16 today; 10-day average 26.0 / 91.8.
 
 ## Themes
 | Rank | Theme | Score | Rank 1W ago | Change |
 |---|---|---|---|---|
-| 1 | Large Pharma & Biotech | +5.8% | 2 | +1 |
-| 2 | Homebuilders & Housing | +4.4% | 6 | +4 |
-| 3 | Cyber Security | +3.5% | 12 | +9 |
-| 4 | Exchanges & Financial Data | +2.9% | 1 | -3 |
-| 5 | Consumer Staples | +2.6% | 3 | -2 |
-| 6 | Water | +1.6% | 5 | -1 |
-| 7 | Consumer Retail | +1.6% | 20 | +13 |
-| 8 | Travel & Leisure | +0.8% | 7 | -1 |
+| 1 | Homebuilders & Housing | +7.8% | 7 | +6 |
+| 2 | Large Pharma & Biotech | +5.7% | 5 | +3 |
+| 3 | Exchanges & Financial Data | +4.7% | 2 | -1 |
+| 4 | Consumer Staples | +4.3% | 4 | 0 |
+| 5 | Water | +3.2% | 3 | -2 |
+| 6 | Medtech / Devices | +1.8% | 11 | +5 |
+| 7 | Video Games / Esports | +1.8% | 9 | +2 |
+| 8 | Consumer Retail | +1.5% | 13 | +5 |
 
-Biggest rank gains (1W): Consumer Retail (+13), Commercial Aerospace (+12), Cyber Security (+9)
-Biggest rank drops (1W): Refiners (-14), Managed Care & Health Services (-13), Natural Gas / LNG (-9)
+Biggest rank gains (1W): Obesity / GLP-1 (+12), Gold & Silver Miners (+8), Managed Care & Health Services (+6)
+Biggest rank drops (1W): Cyber Security (-10), AI in Healthcare (-6), Analog, Edge & Power Semis (-6)
 
 ## Focus candidates (passing 2+ screens)
 | Ticker | Theme | RS | Screens | Close | Pivot | 10 EMA | 50D | ADR | 1-ADR stop |
 |---|---|---|---|---|---|---|---|---|---|
-| ANF | Consumer Discretionary | 98 | Minervini TT 8/8; Zanger near pivot; Episodic pivot; Kell wedge pop | 168.1 | 172.0 | 149.25 | 148.44 | 5.3% | 159.19 |
-| TGTX | Health Care | 98 | Minervini TT 8/8; Zanger breakout; Qulla breakout; Kell EMA crossback | 70.13 | 68.03 | 64.75 | 58.12 | 5.8% | 66.06 |
-| KSS | Consumer Discretionary | 97 | Minervini TT 8/8; Zanger near pivot; Kell wedge pop; Kell EMA crossback | 25.33 | 25.6 | 23.43 | 21.52 | 5.8% | 23.86 |
-| ALKS | Health Care | 93 | Zanger breakout; Kell wedge pop; Kell EMA crossback; Kell base n' break | 49.92 | 48.3 | 46.76 | 43.78 | 4.1% | 47.87 |
-| SIGI | Financials | 85 | Minervini TT 8/8; VCP-like; Zanger near pivot; Kell EMA crossback | 104.39 | 105.65 | 103.01 | 93.39 | 2.5% | 101.78 |
-| NTSK | Cyber Security ★ | 99 | Minervini TT 8/8; Zanger near pivot; Qulla setup | 25.53 | 26.71 | 23.82 | 21.06 | 8.2% | 23.44 |
-| LLY | Obesity / GLP-1 ★ | 89 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 1407.59 | 1475.25 | 1387.39 | 1276.87 | 3.2% | 1362.55 |
-| CBOE | Exchanges & Financial Data ★ | 86 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 362.52 | 379.76 | 360.19 | 315.7 | 3.5% | 349.83 |
-| NDAQ | Exchanges & Financial Data ★ | 81 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 106.42 | 111.45 | 105.9 | 99.47 | 2.3% | 103.97 |
-| CON | Health Care | 98 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 43.25 | 44.22 | 42.48 | 38.96 | 3.2% | 41.87 |
-| SN | Consumer Discretionary | 98 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 228.93 | 232.76 | 222.26 | 197.98 | 4.2% | 219.31 |
-| CROX | Consumer Discretionary | 97 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 159.24 | 164.24 | 157.47 | 134.19 | 3.7% | 153.35 |
-| ASO | Consumer Discretionary | 96 | Zanger near pivot; Qulla setup; Kell EMA crossback | 72.24 | 73.82 | 69.76 | 58.81 | 4.0% | 69.35 |
-| FLYW | Fintech / Digital Payments | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 22.32 | 22.58 | 21.67 | 19.31 | 4.4% | 21.34 |
-| LTH | Consumer Discretionary | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 47.93 | 48.61 | 46.92 | 42.91 | 4.1% | 45.96 |
+| CON | Health Care | 98 | Minervini TT 8/8; VCP-like; Zanger near pivot; Kell EMA crossback | 43.06 | 44.22 | 42.58 | 39.09 | 3.2% | 41.68 |
+| LTH | Consumer Discretionary | 96 | Minervini TT 8/8; VCP-like; Zanger near pivot; Kell EMA crossback | 47.81 | 48.61 | 47.08 | 43.06 | 4.1% | 45.85 |
+| DIS | Digital Media & Advertising | 84 | Minervini TT 8/8; Zanger breakout; Kell EMA crossback; Kell base n' break | 125.6 | 123.37 | 120.62 | 111.51 | 2.7% | 122.21 |
+| VLTO | Water ★ | 90 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 120.19 | 120.35 | 117.93 | 105.7 | 2.5% | 117.19 |
+| NTSK | Cyber Security | 99 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 26.44 | 26.71 | 24.3 | 21.24 | 8.7% | 24.14 |
+| ANF | Consumer Discretionary | 98 | Minervini TT 8/8; Zanger near pivot; Kell wedge pop | 176.96 | 178.38 | 154.29 | 149.19 | 5.5% | 167.23 |
+| KSS | Consumer Discretionary | 98 | Minervini TT 8/8; Zanger breakout; Kell wedge pop | 26.7 | 25.6 | 24.03 | 21.72 | 6.1% | 25.07 |
+| SN | Consumer Discretionary | 98 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 232.5 | 232.94 | 224.12 | 199.22 | 4.5% | 222.04 |
+| VCEL | Health Care | 98 | Minervini TT 8/8; Zanger near pivot; Qulla setup | 61.01 | 61.25 | 58.24 | 45.92 | 4.8% | 58.08 |
+| ASO | Consumer Discretionary | 97 | Zanger near pivot; Qulla setup; Kell EMA crossback | 73.33 | 73.82 | 70.41 | 59.27 | 4.1% | 70.32 |
+| CROX | Consumer Discretionary | 97 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 159.93 | 164.24 | 157.92 | 135.08 | 3.8% | 153.85 |
+| FLYW | Fintech / Digital Payments | 97 | Minervini TT 8/8; Zanger breakout; Kell EMA crossback | 23.26 | 22.58 | 21.96 | 19.42 | 4.8% | 22.14 |
+| HOG | Consumer Discretionary | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 34.2 | 34.84 | 33.35 | 29.28 | 3.9% | 32.87 |
+| PGNY | Health Care | 96 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 36.27 | 37.21 | 35.75 | 29.92 | 3.4% | 35.04 |
+| ENR | Consumer Staples | 94 | Minervini TT 8/8; Zanger near pivot; Kell EMA crossback | 27.92 | 29.26 | 27.23 | 23.4 | 4.6% | 26.64 |
 
 ## New on the screens today
-DG (Zanger near pivot; Kell wedge pop), AMTM (Episodic pivot; Kell wedge pop), SEZL (Kell EMA crossback), LQDA (Qulla setup), KRYS (Zanger near pivot), RSG (Zanger near pivot), M (Minervini TT 8/8), ENOV (Kell EMA crossback), INCY (Minervini TT 8/8), KMX (Kell wedge pop), BMRN (Zanger breakout), KR (Kell EMA crossback), RCL (Kell EMA crossback), HIW (Minervini TT 8/8), JKHY (Kell EMA crossback), NBIX (Kell EMA crossback), WEX (Minervini TT 8/8), CME (Kell EMA crossback), STE (Kell EMA crossback), OLLI (Kell wedge pop), COR (Kell wedge pop), HSIC (Kell wedge pop)
+ROKU (Minervini TT 8/8; Zanger near pivot), VYX (Zanger near pivot; Kell EMA crossback), MOH (Minervini TT 8/8), WMT (Zanger near pivot), AEO (Kell EMA crossback), TNL (Kell EMA crossback), AWK (Zanger near pivot), ULTA (Zanger near pivot), DUOL (Kell EMA crossback), CNXC (Kell EMA crossback), WAB (Minervini TT 8/8), HCA (Kell EMA crossback), ALGT (Kell EMA crossback), KMPR (Kell EMA crossback), APG (Kell EMA crossback), CWST (Kell EMA crossback), CNH (Kell wedge pop), HD (Kell wedge pop), REYN (Kell wedge pop), AWI (Kell wedge pop)
 
 ## Warnings on theme stocks
-J (Wedge drop), OKTA (Closed below 50D), QLYS (Closed below 50D), TXN (Closed below 50D)
+TECH (Wedge drop), CBOE (Wedge drop), DAL (Wedge drop)
 
 ---
 Generated by Theme Monitor. Levels are reference points for review, not trade instructions.
